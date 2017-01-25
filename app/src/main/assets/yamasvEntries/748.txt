@@ -1,0 +1,37 @@
+
+Reported Speech in Casual Conversations
+
+Reported speeches often end with って in casual conversations. When it follows a noun, だって or なんだって is used. When it follows a verb, って or んだって is used.
+
+明日は雨だって。
+明日は雨なんだって。
+明日は雨が降るって。
+明日は雨が降るんだって。
+The weather report says that it will rain tomorrow.
+
+彼は日本人だって。
+彼は日本人なんだって。
+I heard that he is Japanese.
+
+ヤンキースはまた負けたって。
+ヤンキースはまた負けたんだって。
+They say that the Yankees lost again.
+
+ジェーンとトムは結婚するって。
+ジェーンとトムは結婚するんだって。
+I heard that Jane and Tom are going to get married.
+(The first sentence sounds as if you heard it from Jane and Tom. The second one is ambiguous. The speaker might hear it from them, or might hear the rumor.)
+
+水は水素と酸素からできてるんだって。
+I heard that water is composed of hydrogen and oxygen.
+（できてるって sounds unnatural. んだって sounds natural to describe universal truths.)
+
+
+In a formal situation, you can say とのことです instead.
+
+明日は雨が降るとのことです。
+彼は日本人とのことです。
+ヤンキースはまた負けたとのことです。
+ジェーンとトムは結婚するとのことです。
+水は水素と酸素からできてるとのことです。
+

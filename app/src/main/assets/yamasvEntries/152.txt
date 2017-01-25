@@ -1,0 +1,36 @@
+
+The difference between ために and ように
+
+ために and ように is used to describe your purpose.
+
+日本語を勉強するために、日本の映画を観た。
+I watched a Japanese movie to study Japanese.
+
+漢字の練習をするために、ノートを買った。
+I bought a notebook to practice kanji.
+
+日本に行くために、貯金している。
+I am saving money to go to Japan.
+
+誰でもわかるように、簡単な言葉を使った。
+I used easy language as anybody can understand.
+
+早く起きられるように、目覚ましをかけた。
+I set the alarm to wake up early.
+
+They are interchangeable in some cases. 
+会議に遅れないように、タクシーで行った。- I got a taxi so as not to be late for the meeting.
+会議に遅れないために、タクシーで行った。
+
+However, they are not interchangeable in many cases.
+
+You cannot use ように after volitional verb.
+
+x 日本語を勉強するように、日本の映画を観た。
+x 漢字の練習をするように、ノートを買った。
+x 日本に行くように、貯金している。 
+
+You cannot use ために after potential form of verbs.
+
+x 誰でもわかるために、簡単な言葉を使った。
+x 早く起きられるために、目覚ましをかけた。

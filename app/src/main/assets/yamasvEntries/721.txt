@@ -1,0 +1,23 @@
+
+Omission Of Verbs In Main Clause In Conditional Sentence
+
+The following Japanese sentence may look strange, but they are correct and natural sentences. ば in them are conditionals.
+
+またあなたと仕事ができればと思う。
+若いころもっと勉強しておけばと思う。
+あなたが日本語を教えてくれればと思う。
+ゴールキーパーがミスをしなければと思う。
+
+In those sentences, the verbs in the main clauses are omitted. The slightly redundant sentences would be:
+
+またあなたと仕事ができれば うれしい と思う。
+- I'll be happy if I'll work with you sometimes.
+若いころもっと勉強しておけば よかった と思う。
+- I should have studied harder when I was young.
+あなたが日本語を教えてくれれば いいのに と思う。
+- I wish you taught us Japanese.
+ゴールキーパーがミスをしなければ 勝てた と思う。
+- We would have won the game if the goal keeper didn't fail to catch the ball.
+
+
+〜ばと思う is used only when you feel happy if the conditional is true. Therefore, the omitted verbs are always positive ones: うれしい, いい, 楽しい, etc.

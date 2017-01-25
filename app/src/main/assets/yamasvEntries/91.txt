@@ -1,0 +1,16 @@
+
+How to list multiple adjectives and adjectival nouns.
+
+I would like to explain how to list multiple adjectives and adjectival nouns. 
+At first, I will explain what an adjective and an adjectival noun are.
+An adjective is used to modify a noun. Most Japanese adjectives end with "い”. For example, 美しい, 楽しい、白い etc. You can use an adjective as a predicate without conjugation. For example, "あなたは美しい", "その犬は白い", etc.
+きれい, りっぱ, ていねい, etc., is an adjectival noun. (Be careful, some adjectival noun end with い. There is no easy way to recognize whether a word, which ends with い, is an adjective or an adjectival noun.) You need to conjugate an adjectival noun when you use it in some cases. You need to add な when you want to it to modify a noun. For example, きれいな女性, りっぱな家, or ていねいな説明. On the other hand, you need to use だ instead of な when you use it as a predicate. For example, あの女性はきれいだ, あの家はりっぱだ, or あの説明はていねいだ.
+
+Next, I will explain main topic, how to list multiple adjectives and adjectival nouns. When you list multiple adjectives, you need to replace い with くて. For example, 美しくて, 楽しくて, or 白くて. When you list multiple adjectival noun, you need to add で. For example, きれいで, りっぱで, or ていねいで.  However, there is one exception. You don't need to change the last adjective or the last adjectival noun. You can use adjectives and adjectival nouns at the same time in one sentence.
+Unfortunately, there are some exceptions. For example, 格好いい is an adjective but you need to say not "格好いくて" but "格好よくて." However, You can apply these rules in most cases.
+
+Here are some example sentences which include multiple adjectives and adjectival noun.
+あの人は、りっぱで、楽しくて、美しい。
+あの人は、りっぱで、楽しくて、美しい人だ。
+あの家は、白くて、きれいで、りっぱだ。
+あの家は、白くて、きれいで、りっぱな家だ。

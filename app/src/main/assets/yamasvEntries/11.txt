@@ -1,0 +1,39 @@
+
+Postpositional Particles after Date/Time
+
+1:
+The next sentences all describe "This shop is closed at noon."
+
+正午　まで　　　営業する
+正午　までで　　閉店する
+正午　に　　　　閉店する
+正午　までが　　営業時間だ
+正午　が　　　　閉店時間だ
+正午　で　　　　閉店する
+正午　でもって　閉店する
+正午　までを　　営業時間とする
+
+2:
+The next sentences describe "This shop is closed  by noon.   (It may be closed at 11:00am.)"
+
+正午　までに　閉店する    
+正午　までには　閉店する    
+
+3:
+The next sentence describes "This shop is open during the morning. (The closing time is ambiguous.)"
+
+正午　までは　　営業する
+
+If you say "正午まではここにいる", We feel that you will stay there in the morning and leave there at noon, but you may stay there for a short time after noon.
+
+
+
+Additional information about before/after noon:
+
+午前に電話する - I will call you in the morning. 
+正午に電話する - I will call you at noon.
+午後に電話する - I will call you in the afternoon.
+
+If you say 午前に, we feel it will be about 9:00am - 12:00am.
+If you say 正午前に, we feel it will be about 11:30am - 12:00am.
+We don't say 正午後.

@@ -1,0 +1,19 @@
+
+The Difference Between みたい and らしい
+
+みたい and らしい are used to describe hearsay, and they also are used to describe behavior or looks.
+When they are used to describe behavior or looks, there is a clear difference. みたい means "to look like as if" and らしい means "to be supposed to be."
+"〜は男みたい" means "〜 looks like as if 〜 is a man." Therefore, it can be used for only a woman. On the other hand, "〜は男らしい" means "〜 behaves the way which a man should do." It's used for only a man.
+o 彼女は女らしい
+x 彼女は女みたい
+o 彼は男らしい
+x 彼は男みたい
+
+Similarly, if it's very hot weather and there is no cloud in the blue sky, you should say "今日は夏みたい" if it's not summer, and you should say "今日は夏らしい" if it's summer.
+
+彼は日本人みたいに漢字をよく知っている。
+He knows many kanji as if he is a Japanese person / even though he is not a Japanese person.
+
+彼は日本人らしく漢字をよく知っている。
+He knows many kanji as may be exptected as a Japanese person.
+

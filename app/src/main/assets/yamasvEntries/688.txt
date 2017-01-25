@@ -1,0 +1,22 @@
+
+Common Mistakes about ながら
+
+You can say ながら when you do something while doing other things:
+
+私はいつも仕事をしながらラジオを聞きます。
+- I always listen to radio while working.
+
+彼はその手紙を読みながら泣いていた。
+- He was crying while reading the letter.
+
+However, you can't say ながら when the subjects of two clauses are different. You should say 間(あいだ) in this case.
+
+x 社長がスピーチをしていながら、ほとんどの社員は寝ていた。
+o 社長がスピーチをしている間、ほとんどの社員は寝ていた。
+Almost all employees were sleeping while the president made a speech.
+
+x 弟が勉強しながら、私はゲームをしていた。
+o 弟が勉強をしている間、私はゲームをしていた。
+- I was playing video games while my brother were studying.
+
+(You don't need to use the past tense for the verb before 間.)

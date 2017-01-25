@@ -1,0 +1,22 @@
+
+The difference between はずだ and わけだ.
+
+はずだ is used to describe your guess which is deduced from some facts. On the other hand, わけだ is used to describe the expected results.
+
+
+彼はプロの料理人だ。だから、彼の料理はうまい はずだ。
+- He is a professional chef. Therefore, his dishes must be delicious.
+This sentence in Japanese implies that the speaker has not tasted his dishes yet.
+
+彼はプロの料理人だ。だから、彼の料理はうまい わけだ。
+- He is a professional chef. It is a good reason that his dishes are delicious.
+This sentence in Japanese implies that the speaker has already tasted his dishes.
+
+
+彼は全然勉強していなかった。だから、試験に落ちた はずだ。
+- He had not studied at all. Therefore, I bet he had failed the exam.
+This sentence in Japanese implies that the speaker has not known the result yet.
+
+彼は全然勉強していなかった。だから、試験に落ちた わけだ。
+- He had not studied at all. That is why he had failed the exam.
+This sentence in Japanese implies that the speaker has already known the result.

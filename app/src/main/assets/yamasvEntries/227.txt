@@ -1,0 +1,38 @@
+
+Common Mistakes When Using the Paste Tense of I-Adjectives in Polite Sentences
+
+その料理はおいしいです - That dish is delicious.
+その料理はおいしいでした - That dish was delicious. (?)
+その料理はおいしかったでした.
+
+The second and third sentences are incorrect. You have to say その料理はおいしかったです. You don't have to conjugate です into でした to describe a past event when です follows past tense i-adjectives in a polite sentence. 
+
+In non-polite sentence, you have to conjugate the i-adjectives into the past tense:
+その料理はおいしかった。
+
+
+Here are some examples.
+
+o 昨日の試合はおもしろかったです - The yesterday's match was great.
+o 昨日の試合はおもしろかった。
+x 昨日の試合はおもしろいでした。
+x 昨日の試合はおもしろかったでした。
+
+o 彼女は美しかったです - She was beautiful.
+o 彼女は美しかった。
+x 彼女は美しいでした。
+x 彼女は美しかったでした。
+
+
+In the case of na-adjectives, you have to conjugate です into the past tense でした in polite sentences, and you have to conjugate だ into the past tense だった in non-polite sentences.
+
+彼女は綺麗です。- She is beautiful.        [present, polite]
+彼女は綺麗だ。                                     [present, non-polite]
+彼女は綺麗でした。- She was beautiful. [past, polite]
+彼女は綺麗だった。　　　　　　　　　 [past, non-polite]
+
+テストは簡単です。- The test is easy.        [present, polite]
+テストは簡単だ。                                      [present, non-polite]
+テストは簡単でした。- The test was easy. [past, polite]
+テストは簡単だった。　　　　　　　　　  [past, non-polite]
+

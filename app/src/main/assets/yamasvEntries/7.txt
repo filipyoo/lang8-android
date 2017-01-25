@@ -1,0 +1,27 @@
+
+Convert a Verb Into a Noun by Adding の/こと
+
+You can convert a verb into a noun by adding の.
+走る の は楽しい  -  Running is fun.
+泳ぐ の は嫌いだ  -  I hate swimming.
+食べる の が 好きだ  -  I like eating.
+
+You can replace の with こと in all sentences.
+走る の は楽しい   =  走る こと は楽しい
+泳ぐ の は嫌いだ   =  泳ぐ こと は楽しい
+食べる の が 好きだ   =  食べる こと は楽しい
+
+
+When you add の after a past form of the verb, の can have several meanings.
+(a) 食べた の は昨日だ  -  When I ate it was yesterday.
+(b) 食べた の はそのレストランだ  -  Where I ate it was that restaurant.
+(c) 食べた の はパンです -  What I ate was bread.
+(d) 食べた の が病気の原因です -  To have eaten it is a cause of illness.
+
+You can't replace の with こと at (a), (b), and (c).
+
+You can replace の with こと at (d).
+食べた の が病気の原因です  =  食べた こと が病気の原因です
+
+In this sentence, こと means your experience.
+それを食べた こと はないです  -  I have never eaten it.

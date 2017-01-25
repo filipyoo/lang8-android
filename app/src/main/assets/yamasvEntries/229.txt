@@ -1,0 +1,34 @@
+
+The Usage of Noun-modifying である
+
+
+である comes after a noun and is usually placed at the end of the sentence.
+
+ビル・ゲイツは、マイクロソフトの創設者である。
+Bill Gates is the founder of Microsoft.
+
+
+である is also used to modify a following noun.
+
+マイクロソフトの創設者 である ビル・ゲイツは、世界一の金持ちでもある。
+Bill Gates, who is the founder of Microsoft, is the richest man in the world.
+"マイクロソフトの創設者である" modifies the following noun ビル・ゲイツ.
+
+You can list multiple noun-modifying clauses. "〜であり、〜でもある" is used in this case.
+マイクロソフトの創設者 であり、世界一の金持ち でもある ビル・ゲイツは、シアトルに生まれた。
+Bill Gates, who is the founder of Microsoft and the richest man in the world, was born in Seattle.
+
+
+
+東京は、日本の首都である。
+Tokyo is the capital of Japan.
+
+日本の首都 である 東京は、世界で最も物価の高い都市の１つです。
+Tokyo, where is the capital of Japan, is one of the most expensive cities in the world.
+
+日本の首都 であり、世界で最も物価の高い都市の１つ でもある 東京は、関東地方に位置しています。
+Tokyo, where is the capital of Japan and one of the most expensive cities in the world, is located in Kanto area.
+
+
+
+

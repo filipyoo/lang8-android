@@ -1,0 +1,23 @@
+
+How To Enumerate Plural Verbs By Using たり or て.
+
+You can enumerate plural verbs by using たり.
+Example:
+昨日は、勉強したり、おしゃべりしたり、テレビを観たりした.
+
+There are no grammatical or general limits of the number of verbs, but too many verbs make your sentence hard to read.
+You don't need to convert tense of verbs before たり when you talk about the future.
+
+This is a sentence talking about the future.
+明日は、勉強したり、おしゃべりしたり、テレビを観たりする(つもりだ).
+
+Similarly, you can enumerate plural verbs by using て.
+昨日は、勉強して、おしゃべりして、テレビを観た.
+You don't need to convert tense of verbs before て like the case of たり.
+明日は、勉強して、おしゃべりして、テレビを観る(つもりだ).
+
+There is an important rule when you enumerate them by using て, you need to enumerate verbs in chronological order. 
+"おしゃべりしたり、勉強したりした" is the same as "勉強したり、おしゃべりしたりした."
+However, "おしゃべりして、勉強した" is not the same as "勉強して、おしゃべりした."
+The former describes that you studied after chatter, the latter describes that you chatted after you had finished your study.
+

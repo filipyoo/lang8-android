@@ -1,0 +1,46 @@
+
+The Difference Between こと and の
+
+You can change a verb to a noun by adding の or こと after the dictionary form of a verb.
+
+映画を観る こと が好きです。
+映画を観る の が好きです。
+- I like watching movies.
+
+泳ぐ こと が得意です。
+泳ぐ の が得意です。
+- I'm good at swimming.
+
+こと and の are not always interchangeable.
+You can't use の as the predicate.
+o 私の趣味は映画を観る こと です。
+x 私の趣味は映画を観る の です。
+- My hobby is watching movies.
+
+You also can't use の as the object of some verbs 決める、約束する.
+o 日本に行く こと に決めた。
+x 日本に行く の に決めた。
+- I've decided to go to Japan.
+
+o 彼女を手伝う こと を約束した。
+x 彼女を手伝う の を約束した。
+- I promised to help her.
+
+On the other hand, you can't use こと as the object of perception verbs: 見る、聞く、感じる etc.
+o 彼女が道路を渡る の を見た。
+x 彼女が道路を渡る こと を見た。
+- I saw her cross the street.
+
+o 君が歌ってる の を聞いたことがない。
+x 君が歌ってる こと を聞いたことがない。
+- I've never heard you sing.
+
+You also can't use こと with 待つ, 手伝う.
+o レースが始まる の を待っている。
+x レースが始まる こと を待っている。
+- I'm waiting for the race to start.
+
+o 彼女が料理する の を手伝う。
+x 彼女が料理する こと を手伝う。
+- I'll help her to cook.
+

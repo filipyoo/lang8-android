@@ -1,0 +1,65 @@
+
+How To Negate "Every" In Japanese
+
+You can say "とは限らない" or "わけではない" to negate "every." 
+
+私は漢字を全部知ってる。
+I know every kanji.
+
+私は漢字を全部知ってるとは限らない。
+私は漢字を全部知ってるわけではない。
+I don't know every kanji.
+
+私は漢字を全部知らない。
+I don't know any kanji.
+
+私は毎日日本語を勉強する。
+I study Japanese every day.
+
+私は毎日日本語を勉強するとは限らない。
+私は毎日日本語を勉強するわけではない。
+I don't study Japanese every day.
+
+私は毎日日本語を勉強しない。
+I don't study Japanese at all.
+
+
+私はいつもジャズを聞く。
+I always listen to jazz.
+
+私はいつもジャズを聞くとは限らない。
+私はいつもジャズを聞くわけではない。
+I don't always listen to jazz. (I sometimes listen to other kind of music.)
+
+私は全然ジャズを聞かない。
+I don't listen to jazz at all.
+
+
+The difference between が and は is very important when they follow 全部 or something like that in a negative sentence. 全部は〜ない means "not 〜 every...," and 全部が〜ない means "not 〜 any...." が can be omitted.
+
+全部は答えられなかった。
+I couldn't answer all questions.
+(全部は〜ない implies that "you do most/many of them", so this Japanese sentence implies that "I was able to answer most/many of them.")
+
+全部(が)答えられなかった。
+I couldn't answer any question.
+
+
+全員は彼を知らない。
+Not everybody knows who he is. (Most/Many of them know who he is.)
+
+全員(が)彼を知らない。
+No one knows who he is.
+
+全員 (が) 彼を知っている。 (全員は彼を知っている sounds unnatural.)
+Everybody knows who he is.
+
+
+日本料理は全部は好きじゃない。
+I don't like all Japanese foods. (I like most/many of them.)
+
+日本料理は全部(が)好きじゃない。
+I don't like any Japanese food.
+
+日本料理は全部(が)好き。(全部は好き sounds unnatural.)
+I like every Japanese food.

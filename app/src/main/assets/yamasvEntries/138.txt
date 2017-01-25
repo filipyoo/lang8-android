@@ -1,0 +1,35 @@
+
+Conditional sentences using と.
+
+と follows conditions and is followed by results. It is used to describe natural consequence.
+
+グラスを床に落とすと、粉々に割れます
+If you drop a glass on the ground, it will break into so many pieces.
+
+ボタンを押すと、ドアが開きます。
+When you press the button, the door will open.
+
+Some Japanese learners sometimes say "ボタンを押すとき、ドアが開きます", but it sounds very weird for us. You should use と when "when" is used to describe natural consequence.
+
+You can also use と in the statement which isn't a natural consequence. と has the ability to let listeners feel as if it is a natural consequence.
+
+この本を読むと、その理由が理解できます。
+If you read this book, you can understand the reason.
+
+日本に行くと、おいしい寿司が食べられます。
+If you go to Japan, you can eat delicious sushi.
+
+
+You cannot use と when it is followed by invitations, orders/askings and wishes.
+
+If it rains, let's play video games in my house.
+x 雨が降ると、家でゲームで遊びませんか？
+o 雨が降ったら、家でゲームで遊びませんか？
+
+Please close that window if it rains.
+x 雨が降ると、あの窓を閉めて。
+o 雨が降ったら、あの窓を閉めて。
+
+When I go to Japan, I would like to eat delicious sushi.
+x 日本に行くと、おいしい寿司を食べたい。
+o 日本に行ったら、おいしい寿司を食べたい。

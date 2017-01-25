@@ -1,0 +1,28 @@
+
+The incorrect usage of 〜たい.
+
+私は、日本に行きたい - I want to go to Japan.
+弟は、日本に行きたい - My brother wants to go to Japan.
+
+The first sentence is correct but the second one is not. You cannot use たい for other people. You should use たがっている for other people.
+
+x 弟は、日本に行きたい 
+○ 弟は、日本に行きたがっている
+
+You can use たい for other people when you use it with みたい or ようだ, which are used to describe your predication. Similarly, you can also use it with らしい, which is used to describe hearsay.
+
+○ 弟は、日本に行きたいようだ - My brother seems to want to go to Japan.
+○ 弟は、日本に行きたいみたい - My brother seems to want to go to Japan. 
+○ 弟は、日本に行きたいらしい - I heard that my brother wants to go to Japan.
+
+However, you can use 〜たい for other people who are your talking partner in the question sentences. 
+
+○ あなたは日本に行きたいですか? (This sentence is correct because あなた is your talking partner.)
+x あなたの弟は日本に行きたいですか? (This sentence is incorrect because あなたの弟 is NOT your talking partner.)
+
+You should use たがっている for other people who are not your talking partner in the question sentences too. 
+○ あなたの弟は日本に行きたがってますか?
+
+
+
+

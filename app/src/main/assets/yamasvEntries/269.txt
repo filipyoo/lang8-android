@@ -1,0 +1,42 @@
+
+Past Tense When The Sentence Contains Two Clauses
+
+1.
+昨日、仕事が終わった前に、彼に電話をかけた。
+- I called him before I finished my job.
+
+The Japanese sentence is incorrect. When a sentence contains two clauses, you have to judge the tense of the sub clause from the time the action described in the main clause was done. Since the main clause of the sentence is "彼に電話をかけた" and the time you finished your job is after it, you have to use present tense; you have to say "仕事が終わる前に."
+x 昨日、仕事が 終わった 前に、彼に電話をかけた。
+o 昨日、仕事が 終わる 前に、彼に電話をかけた。
+
+If you finished your job before you called him, you have to use past tense; you have to say "仕事が終わった後に".
+o 昨日、仕事が 終わった 後に、彼に電話をかけた。
+x 昨日、仕事が 終わる 後に、彼に電話をかけた。
+
+---------  (past) ----------- [the time you called him] -------- (present) -----------  [now]
+
+
+Here are other examples:
+
+昨日は、彼が 来る ので、料理を作った。
+- I cooked yesterday to welcome him. / I cooked before he came home. 
+(You have to use present tense because the time he came was after you cooked.)
+
+昨日は、彼が 来た ので、料理を作った。
+- I cooked yesterday because he came home. / I cooked after he came home.
+(You have to use past tense because the time he came was before you cooked.)
+
+---------  (past) ----------- [the time you cooked] -------- (present) -----------  [now]
+
+
+2. 
+昨日、テレビを見て いる 時に、雨が降り始めた。
+昨日、テレビを見て いた 時に、雨が降り始めた。
+- It began raining when I was watching TV yesterday.
+
+アメリカに住んで いる 時、日本語を全然話さなかった。
+アメリカに住んで いた 時、日本語を全然話さなかった。
+- When I was living in America, I didn't speak Japanese at all.
+
+All of the Japanese sentences above are correct. When a sub clause describes your situation, both present and past tenses can be used. (I'd use present tense in this case.)
+

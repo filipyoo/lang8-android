@@ -1,0 +1,46 @@
+
+Using ある to Describe Height or Weight
+
+You can use ある to describe height, weight, or something like this.
+
+この30階建のビルは高さが150メーターあります。
+- This 30-story building measures 150 meters height.
+There is no specific Japanese verb which means "to measure" which describes height, weight or something like this, so ある is commonly used. You don't need to use any particle before it.
+
+この川の幅は100メーターあります。
+- This river measures 100 meters in width.
+
+この相撲取りの体重は280Kgあります。一番重い相撲取りです。
+- The weight of the sumo wrestler is 280 kilograms. He's the heaviest wrestler.
+
+ここから駅までは3キロくらいあるからタクシーで行った方がいい。
+- The distance from here to the station is about 3 kilometers. You should go by taxi.
+
+
+You can also use ある to describe time span.
+
+試合が始まるまで1時間くらいある。
+- It's about an hour before the game starts.
+
+However, you can't use ある to describe how long time an action takes. You need to use かかる.
+
+x 宿題を終わらすのに30分ある。
+宿題を終わらすのに30分かかる。
+- It'll take 30 minutes to finish my homework.
+
+
+
+When you describe how big Japanese style room with tatami mat is, you can use the number of the tatami mats. The area of one tatami mat is about 1.8 square meters. 
+
+私の部屋は6畳です。
+- My room is tatami-floored with 6 mats.
+(The 畳, which follows the number, is pronounced as じょう.")
+
+It's easier for Japanese people to imagine how big your room is if you describe it using the number of tatami mat even when your room isn't tatami-floored.
+
+ホテルの部屋はどれくらいの広さだった？
+畳(たたみ)にすると8畳(じょう)くらいかな。
+- How big the hotel room was?
+- Assuming that it was tatami-floored, it was about 8 mats.
+
+

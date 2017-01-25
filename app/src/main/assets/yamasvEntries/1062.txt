@@ -1,0 +1,89 @@
+
+は and が, Which One You Should Use After The Subject
+
+私が市長です
+私は市長です
+Both sentences mean "I am the mayor." Which one you should use depends on the context. If they are the answer to a question, there is an easy(?) way to choose. 
+If the question is "Who is the mayor?," the subject 私 is the answer to the question. In this case, you need to use が. On the other hand, if the question is "What do you do?," the subject 私 is not the answer, the predicate 市長 is the answer. In this case, you need to use は. 
+
+
+日本料理で何がおいしいですか？- What is the delicious Japanese food?
+寿司がおいしいです。- Sushi.
+(Sushi is the answer, so you need to use が.)
+
+寿司はおいしいですか？ - Is sushi delicious?
+寿司はおいしいです。- Yes, it is.
+(Sushi is not the answer.)
+
+
+テーブルの上には何がありますか？- What is on the table?
+鍵が(テーブルの上に)あります。- A key.
+
+鍵はどこにありますか？- Where is the key.
+鍵はテーブルの上にあります。It's on the table.
+
+
+どっちが勝った？ - Which one won the match?
+彼が勝った。- He won.
+
+彼は勝った？- Did he win the match?
+彼は勝った。- Yes, he did.
+
+
+You may notice that when が follows the subject, the subject appears for the first time. On the other hand, the subject has already appeared on the question when the subject is followed by は.
+
+日本料理で何がおいしいですか？
+寿司がおいしいです。(The 寿司 appears for the first time.)
+
+寿司はおいしいですか？ 
+寿司はおいしいです. (The 寿司 has already appeared on the question.)
+
+テーブルの上には何がありますか？
+鍵が(テーブルの上に)あります。(The 鍵 appears for the first time.)
+
+鍵はどこにありますか？
+鍵はテーブルの上にあります。 (The 鍵 has already appeared on the question.)
+
+
+どっちが勝った？ 
+彼が勝った。(The 彼 appears for the first time.)
+
+彼は勝った？
+彼は勝った。(The 彼 has already appeared on the question.)
+
+
+You also may notice that when が is expected after the subject of the answer, が is also used in the question:
+誰「が」市長？
+何「が」おいしい？
+どっち「が」勝った？
+
+
+
+When the sentence you make is not an answer to a question, there are cases where both は and が can be applied.
+
+彼が私のことを好きだと言った。
+彼は私のことを好きだと言った。
+- He told me that he loved me.
+
+In this case, you should choose the particle depending on whether what you want to stress is placed before the particle or not. If you want to stress 彼, which is placed before the particle, you should use が, otherwise, you should use は.
+
+あなたが日本に行きたいと言った。私じゃない。なぜ私があなたの飛行機のチケットを買わないといけないの?
+- The person who wanted to go to Japan was you, not me. Why do I have to buy your plane ticket?
+
+あなたは日本に行きたいと言った。なぜ中国語を勉強してるの?
+- You said that you wanted go to Japan. Why are you studying Chinese?
+
+
+
+
+
+When a clause is used to modify a noun, が (or の) is always used after the subject in the clause; は is never used.
+
+これは、弟「が」撮った写真です。
+- This is a picture my brother took.
+
+私「が」卒業した大学は、あまり有名ではない。
+- The university I graduated from is not so famous.
+
+僕「が」釣った魚は、君「が」釣った魚より大きい。
+- The fish I caught is bigger than one you did.

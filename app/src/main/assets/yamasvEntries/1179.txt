@@ -1,0 +1,32 @@
+
+How to Translate "〜 allows us to 〜" into Natural Japanese
+
+- A smart phone allows us to access the internet no matter where you are.
+
+If you translate this sentence into Japanese literary, it would be "スマートフォンは、私達がどこにいてもインターネットにアクセスすることを可能にする." However, it sounds too formal. "〜によって〜できる" sounds more natural. I'd say "スマートフォンによって、私たちはどこにいてもインターネットにアクセスできる."
+
+ロボットによって、私たちは知的な仕事に集中することができるようになるだろう。
+- Robots would allow us to concentrate intellectual jobs.
+
+この技術によって、ケーブルを繋がなくても携帯電話を充電することができます。
+- This technology allows you to charge your mobile phone without connecting a cable.
+
+このアプリによって、近くのレストランを簡単に探すことができる。
+- This app allows you to find a restaurant close to where you are easily.
+
+インターネットによって、家に居ながらにしてなんでも買える。
+- The internet allows us to purchase everything while staying home.
+
+
+You can also say "を使うと" instead of "によって" in many cases.
+
+スマートフォンを使うと、私たちはどこにいてもインターネットにアクセスできる。
+
+この技術を使うと、ケーブルを繋がなくても携帯電話を充電することができます。
+
+このアプリを使うと、近くのレストランを簡単に探すことができる。
+
+インターネットを使うと、家に居ながらにしてなんでも買える。
+
+("ロボットを使うと、私たちは知的な仕事に集中することができるようになるだろう" sounds slightly unnatural to me.)
+

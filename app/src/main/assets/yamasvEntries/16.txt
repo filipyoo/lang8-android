@@ -1,0 +1,22 @@
+
+"(私は)車を3台持っています" has no information without the fact you have three cars. However if you say "3台も持っています", although the number of cars you have is three,  we can guess having three cars are too many for you.
+​
+The following is the summary of what we can know and what we can guess from what you said.
+
+3台持ってます
+You have three cars.
+
+3台も持ってます
+You have three cars. We can guess you feel it is too many.
+
+３台しか持ってません。
+You have three cars. We can guess you want more.
+
+３台も持ってません。
+You probably have one or two cars. We can guess you think that having three cars is impossible or too extravagant.
+
+３台は持ってます。
+You have three or more cars, probably more than three. 
+
+３台は持ってません。
+You probably have two cars. You must say "1台しか持ってません." if you have one car, and you must say "1台も持ってません" if you have no car.

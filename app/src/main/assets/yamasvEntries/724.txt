@@ -1,0 +1,38 @@
+
+Using 〜による
+
+〜による has several meanings. I'll show you the kanji, but it's common to write them in hiragana. If you write it in kanji on Lang-8, Japanese people would correct them.
+
+1. Depend on: 依る.
+
+買い物に行くかどうかは天気による。
+- It depends on the weather, whether I'll go shopping or not.
+
+彼がマネージャーになれるかどうかは、このプロジェクトの結果による。
+- Whether he is able to become a manager or not depends on the result of this project.
+
+2. To be based on: 拠る.
+
+これは彼の理論によるシミュレーションにすぎない。
+- This is just a simulation based on his theory.
+
+彼の豊富な経験による判断は、いつも良い結果をもたらす。
+- His decision based on his wealth of experience always brings a good result.
+
+3. According to: 由る.
+
+その新聞によると、香川はこの前の試合で怪我をしたそうだ。
+- According to the newspaper, Kagawa was injured in the last game.
+
+日本に行った彼によると、日本ではいたる所に自動販売機があるらしい。
+- According to him, who has been to Japan, there are vending machines on every corner in Japan.
+
+4. By.
+
+その事故はソフトのバグによる(因る)ものだ。
+- This accident was caused by a software bug.
+
+これらの作品は全て彼によるものです。
+- All of these crafts are made by him.
+
+

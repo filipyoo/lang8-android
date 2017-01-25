@@ -1,0 +1,38 @@
+
+Usage of て to Describe Reasons
+
+て is used to describe reasons like ので/から. However, て isn't interchangeable with ので/から. て can be followed by sentences which describes emotions or impossibilities.
+
+I can't sleep because my teeth hurts.
+歯が痛く て 眠れない。
+
+I can't eat this dish because it's awful. 
+この料理は、まずく て 食べられない。
+
+I can't go out because I have homework.
+宿題があっ て 外出できない。
+
+I regret because I've failed the exam.
+試験に落ち て 残念だ。
+
+The noisy television drives me crazy.
+テレビがうるさく て 頭にくる。
+
+
+Conscious actions follow the reasons in the following sentences. You can't use て after the reasons in this case; you have to use ので/から.
+
+x 宿題があって、外出を止めた。
+o 宿題があるので、外出を止めた。
+I cancelled to go out because I have homework.
+
+x お金がなくて、新車は買わない。
+o お金がないから、新車は買わない。
+I won't buy a new car because I don't have enough money.
+
+x 歯が痛くて、ケーキを食べない
+o 歯が痛いから、ケーキを食べない
+I don't eat cake because my teeth hurts.
+
+x テレビがうるさくて、弟に消すように頼んだ。
+o テレビがうるさいので、弟に消すように頼んだ。
+I asked my brother to turn the television off because it's too noisy. 

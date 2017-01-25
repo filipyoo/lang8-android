@@ -1,0 +1,30 @@
+
+The Negative and Positive Form Using は
+
+When は comes after a noun which means "entire; every" and は is followed by a negative form, it means a partial negation.
+
+プールに毎日 は 行っていません。
+I don't go to a pool every day. 
+This sentence implies that the speaker often goes to a pool.
+
+それらの本をまだ全部 は 読んでいません。
+I haven't read all of those books yet.
+This sentence implies that the speaker has read many of them and is going to read the rest of them.
+
+は can come after a verb.
+プールに毎日行って は いません。
+それらの本を全部読んで は いません。
+
+When a positive form comes after a noun which means "entire; every," you can't use は.
+x プールに毎日 は 行ってます
+x その本を全部 は 読みました
+o プールに毎日行ってます - I go to a pool every day.
+o その本を全部読みました - I've read all of the books.
+
+"プールに毎日行って は います" is correct but it has the different nuance with "プールに毎日行っています." "プールに毎日行ってはいます" has the nuance that "I go to a pool every day, but I can't swim well yet," "I go to a pool every day because it's my parent's order, but I actually don't want to go" or so on.
+
+"それらの本を全部読み は しました" is correct but it has the different nuance with "それらの本を全部読みました." "それらの本を全部読み は しました" has the nuance that "I've read all of those books, but many of them were boring," "I've read all of those books, but I didn't understand well" or so on.
+"それらの本を全部読み は しました。おもしろかったです。" sounds unnatural. If you start the sentence with "それらの本を全部読み は しました," the listener expects that a negative phrase will follow it.
+
+
+

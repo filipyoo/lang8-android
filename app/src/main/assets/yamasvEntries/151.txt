@@ -1,0 +1,36 @@
+
+〜てから
+
+〜てから has two meanings: "after 〜" and "since 〜"
+
+1. 
+学校から帰っ てから、公園で遊んだ。
+I played in the park after I came from school.
+
+宿題をすまし てから、テレビを見なさい。
+Don't watch TV until you have finished your homework.
+
+You can't use it more than once in one sentence.
+x 学校から帰っ てから、ケーキを食べ てから、公園で遊んだ。
+◯　学校から帰って、ケーキを食べ てから、公園で遊んだ。
+◯　学校から帰っ てから、ケーキを食べて、公園で遊んだ。
+
+You can use て instead of てから:
+学校から帰って、公園で遊んだ。
+However, using て instead of てから sounds unnatural if you want to stress "after":
+△ 宿題をすまして、テレビを見なさい。
+
+
+2.
+学校から帰っ てから、ずっと何も食べてない。
+I have not eaten anything since I came back from school.
+
+日本に来 てから、ずっと英語を話していない。
+I've never spoken English since I came to Japan.
+
+You can omit ずっと, because てから implies ずっと.
+学校から帰ってから、(ずっと)何も食べてない。
+日本に来てから、（ずっと）英語を話していない。
+
+日本に来てから、初めて英語を話す。
+It's my first time to speak English since I came to Japan.

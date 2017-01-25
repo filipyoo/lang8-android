@@ -1,0 +1,23 @@
+
+Avoid Repeating Same Word In Japanese
+
+When the object is already used in the previous sentence, you can omit it. Furthermore, when a verb is composed of a noun that describes an action and する, such as 勉強する, 旅行する, 練習する etc., you can omit the noun too.
+
+昨日は日本語を勉強しましたか？ - Did you study Japanese yesterday?
+はい、しました。- Yes, I did.
+
+明日、私と日本語の会話を練習しますか? - Will you practice Japanese conversation with me tomorrow?
+はい、します。- Yes, I will.
+
+日本に住んでいる時、京都には旅行しましたか? - Did you travel to Kyoto when you lived in Japan?
+はい、しました。- Yes, I did.
+
+
+You can't say する for other verbs.
+
+日本に住んでいる時、京都には行きましたか？- Did you go to Kyoto when you lived in Japan?
+はい、行きました。(You can't say しました.)
+
+もう、昼ごはんは食べましたか? - Have you finished lunch yet?
+はい、食べました。(You can't say しました.)
+

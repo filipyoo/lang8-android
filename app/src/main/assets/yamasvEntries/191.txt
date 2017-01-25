@@ -1,0 +1,32 @@
+
+The difference between から and ので.
+
+から and ので are used to describe reasons.
+
+雨が降った から、その試合は中止になった。
+雨が降った ので、その試合は中止になった。
+The game was cancelled because of the rain.
+
+渋滞してた から、遅れました。
+渋滞してた ので、遅れました。
+I was late because traffic was slow.
+
+
+You can say the result first when you use から, but cannot do it when you use ので.
+
+○ その試合が中止になったのは、雨が降った から だ。
+x その試合が中止になったのは、雨が降った ので だ。
+○ 遅れたのは、渋滞してた から です。
+x 遅れたのは、渋滞してた ので です。
+
+
+You can use から but cannot use ので when the reason includes your guess.
+○ 雨がふるだろう から、傘を持っていきなさい。
+I think it will be rain, so you should bring an umbrella.
+
+○ その料理はおいしいでしょう から、楽しみです。
+I am looking forward to the dish because it must be very delicious.
+
+x 雨がふるだろう ので、傘を持っていきなさい。
+x その料理はおいしいでしょう ので、うらやましいです。
+

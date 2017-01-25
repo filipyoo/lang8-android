@@ -1,0 +1,16 @@
+
+"は" as a topic marker. (The difference between は and が.)
+
+今日、20歳になりました。
+
+You can omit the subject in Japanese sentence, and we usually omit "私は." If someone says "今日、20歳になりました," it means the speaker has turned 20 today. 私は is omitted in this sentence, and the topic of this sentence is 私.
+
+If someone says "弟は、大学生です。今日、20歳になりました," it doesn't mean that the speaker has turned 20 but means the speaker's brother has turned 20. The topic in the second sentence is "弟", because 弟 is marked as the topic by saying "弟は" in the first sentence. If you want to say "I've turned 20 today" in the second sentence, you can't omit "私は"; you have to say "私は、今日、20歳になりました."
+
+
+
+わたしたちはパーティに誘われたけど、弟は病気だから行けない。
+This sentence means "We were invited to the party, but my brother can't go because he is sick." The topic of 行けない is the speaker's brother, because the speaker marks 弟 as the topic by saying "弟は."
+
+わたしたちはパーティに誘われたけど、弟が病気だから行けない。
+This sentence means "We were invited to the party, but we can't go because my brother is sick." "わたしたち" is marked as the topic in this sentence.

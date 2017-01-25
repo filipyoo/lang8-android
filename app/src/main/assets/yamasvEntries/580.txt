@@ -1,0 +1,51 @@
+
+How to translate "while" into Japanese
+
+"While" is a difficult conjunction for some Japanese people because it can be translated into Japanese in  many ways by the context. On the other hand, I sometimes read an unnatural Japanese translation of "while" by English speakers.
+
+1. ながら
+When you use "while" to describe that you are doing two actions at the same time, ながら sounds natural.
+
+私はいつも朝食をとりながら新聞を読みます。
+- I always read the newspaper while eating breakfast.
+
+彼女は看護婦として働きながら、夜間大学で勉強している。
+- She studies at a night college while working as a nurse.
+
+You can't say ながら when the subjects of the two actions are different. For example, "私は朝食をとりながら、父は新聞を読みます" is incorrect.
+
+2. 〜間
+When the action is being done all the time that something is happening, you should say "〜間."
+
+私が朝食を食べている間、彼はいつも新聞を読んでいる。
+- He always reads the newspaper while I am eating breakfast.
+
+私がシャワーを浴びる間、ここで待っていてくれる？
+- Can you wait here while I take a shower?
+
+3. 〜時
+When the action is done during the time that something is happening, ”〜時" sounds natural.
+
+そのカフェでコーヒーを飲んでいる時、彼を見た。
+- I saw him while drinking coffee at the cafe.
+
+弟が出かけている時、弟のPCを壊してしまった。
+- I broke my brother's PC while he was gone.
+
+4. 一方
+When "while" is used to show a contrast, you can say 一方.
+
+彼はとても金持ちだが、一方彼の弟は貧しい。
+- He is very rich, while his brother is poor.
+
+彼女は数学はとても得意だが、その一方、運動は苦手だ。
+- She is good at math, while she isn't good at sports.
+
+5. ながら to mean "although."
+Interestingly, like "while" in English, ながら can be also used to mean "although."
+
+彼は英語の先生でありながら、時々文法を間違っている。
+- While he is an English teacher, he sometimes makes grammatical mistakes.
+
+彼女はまだ５歳ながら、たくさん漢字を知っている。
+- While she is only five-years-old, she knows a lot of kanji.

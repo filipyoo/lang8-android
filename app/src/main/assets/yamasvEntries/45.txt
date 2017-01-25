@@ -1,0 +1,37 @@
+
+かりに(仮に) / たとえ
+
+In most cases, you use them when you describe something which is not real.
+
+1.　かりに
+"かりに" can be followed by "〜としたら" and "〜としても."
+
+1-1. かりに〜としたら
+"かりに A としたら B" means "if A then B." 
+
+かりに　私が王様だ としたら、ぜいたくするだろう - If I were a king, I would live in luxury.
+かりに　海外に行く としたら、日本へ行くだろう - If I went abroad, I would go to Japan.
+
+You may use たら/なら/ならばetc instead of としたら.
+
+
+1-2. かりに〜としても
+"かりに A としても B" means "Even if A, B." 
+
+かりに　私が王様だ としても、ぜいたくはしない - Even if I was a king, I wouldn't live in luxury.
+かりに　海外に行く としても、日本へは行かないだろう - Even if I went abroad, I wouldn't go to Japan.
+
+You may use ても/でもetc instead of としたら.
+
+2. たとえ
+"たとえ A しても B" means "Even if A, B." 
+
+たとえ　私が王様だ としても、ぜいたくはしない - Even if I was a king, I wouldn't live in luxury.
+たとえ　海外に行く としても、日本へは行かないだろう - Even if I went abroad, I wouldn't go to Japan.
+
+Unlike かりに, you cannot use たとえ with としたら.
+
+x たとえ　私が王様だ としたら、
+X たとえ　海外に行く としたら、
+
+You can use もし instead of かりに たとえ, but かりに and たとえ has the effect of emphasizing your thought.

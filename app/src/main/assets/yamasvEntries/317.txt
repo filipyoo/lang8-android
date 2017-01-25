@@ -1,0 +1,46 @@
+
+Particle が after objects
+
+
+Particle を is used after an object of transitive verbs.
+
+日本語を話す - I speak Japanese.
+
+映画を見る - I watch a movie.
+
+フランス料理を作る - I cook French cuisine.
+
+その理論を説明する - I explain the theory.
+
+
+When you use the potential forms of the transitive verbs, you can use not only particle を but also が after objects. が sounds more natural than を for me.
+
+日本語を話せる
+日本語が話せる
+I can speak Japanese.
+
+ついにブラッド・ビットの新しい映画を見られる
+ついにブラッド・ビットの新しい映画が見られる
+Finally, I can watch the new movie of Brad Pitt.
+
+フランス料理を作れる
+フランス料理が作れる
+I can cook French cuisine.
+
+その理論を説明できますか？
+その理論が説明できますか？
+Can you explain the theory?
+
+
+You can't use が when you use ことができる.
+o 日本語を話すことができる
+x 日本語が話すことができる
+o ついにブラッド・ビットの新しい映画を見ることができる
+x ついにブラッド・ビットの新しい映画が見ることができる
+o フランス料理を作ることができる
+x フランス料理が作ることができる
+o その理論を説明することができますか？
+x その理論が説明することができますか？
+
+
+

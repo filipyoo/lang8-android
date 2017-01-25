@@ -1,0 +1,42 @@
+
+The Omission Of The Subject In Japanese
+
+In English, when you say "Tom is my brother," The name "Tom" is stored in a box named "HE." Therefore, you can refer to Tom by saying "he" in the next sentence:
+"Tom is my brother. He is sixteen years old."
+
+The same mechanism works about the subject in Japanese. There is a box named "SUBJECT" and "私" is stored in it as the default. Therefore, you can omit the subject 私は when you are talking about yourself:
+日本語の勉強が好きです -  I like studying Japanese.
+(You don't need to say "私は" in this sentence.)
+
+When you say "トムは日本語の先生です," "トム" is stored in the box." Therefore, if you say "日本語の勉強が好きです" after it, the subject of the second sentence is "トム."
+トムは日本語の先生です。- Tom teaches Japanese.
+日本語の勉強が好きです -  He likes studying Japanese.
+
+If the person who likes studying Japanese is you, you can't omit 私は in the second sentence. 
+トムは日本語の先生です。- Tom teaches Japanese.
+私は、日本語の勉強が好きです -  I like studying Japanese.
+
+
+The similar rule can also be applied to the object of a verb. The verb 作る, which means "to make/cook," needs the object, so the listener would be confused if you just say "私は作ります." However, if the object is implied by using it in a previous sentence or clause, you can omit it.
+
+店に行ったけど、閉まっていた。
+- I went to the store, but it was closed.
+(You don't need to say "'店は'閉まっていた" or "'そこは'閉まっていた.")
+
+ピザが好きです。よく作ります。
+- I like pizza. I often cook it.
+(You don't need to say "よく'ピザを'作ります" or "よく'それを'作ります".)
+
+弟はピザが好きです。よく作ります。
+- My brother likes pizza. He often cooks it.
+(If you want to say "I often cook it for him," you have to say ”私は" because the subject is changed.)
+
+トムは日本語の学校の生徒です。(私は)よく(彼と)一緒に(日本語を)勉強します。
+- Tom is a student of Japanese language school. I often study Japanese with him.
+You can omit "私は," "彼と" and "日本語を."
+
+
+
+When you use a pronoun in English, it might be omitted in Japanese.
+
+

@@ -1,0 +1,26 @@
+
+A Phrase That Mofifies a Noun
+
+A phrase can modify a noun. Unlike in English, a phrase that modifies a noun is always placed before the noun. 
+
+日本に住んでいるおじさんに会うために日本に行きます。
+- I'm going to Japan to see my uncle who lives there.
+日本に住んでいる modifies おじさん.
+
+これは日本で買ったカメラです。
+- This is a camera I bought in Japan.
+日本で買った modifies カメラ.
+
+ドリブルの上手いサッカー選手が好きだ。
+- I like soccer players who has good dribbling skills.
+ドリブルの上手い modifies サッカー選手.
+
+An adjective may be placed between them.
+
+椅子に座っている大きな猫を見た。
+- I saw a big cat sitting on a chair.
+椅子に座っている and 大きな modifies 猫. If you say 大きな椅子に座っている猫を見た, it sounds as if 大きな modifies 椅子.
+
+赤いシャツを着ている背の高い男は私の兄です。
+- That tall man wearing a red shirt is my brother.
+赤いシャツを着ている and 背の高い modifies 男. In this case, you can also say 背の高い赤いシャツを着ている男は私の兄です.

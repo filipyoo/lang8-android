@@ -1,0 +1,50 @@
+
+Japanese Transitive Verbs and Intransitive Verbs.
+
+There are many pairs of Japanese verbs which look similar, but have slightly different meanings. Many of them are pairs of a transitive verb and an intransitive verb.
+For example, 落とす is a transitive verb and 落ちる is an intransitive verb. 停める is a transitive verb and 停まる is an intransitive verb.
+Here are some pairs of transitive and intransitive verbs.
+開ける - 開く
+冷やす - 冷える
+点ける - 点く
+消す - 消える
+並べる - 並ぶ
+つなげる - つながる
+始める - 始まる
+動かす - 動く
+並べる - 並ぶ
+焼く - 焼ける
+
+Transitive verbs have both てある form and ている form. On the other hand, intransitive verbs have only ている form.
+o 開ける - 開けている 
+o 開ける- 開けてある 
+o 開く - 開いている
+x 開く - 開いてある
+o 消す - 消している
+o 消す - 消してある
+o 消える - 消えている
+x 消える - 消えてある
+
+The ている form of transitive verbs is used to describe to that someone is doing something:
+彼が窓を開けている - He is opening windows.
+彼が電気を消している - He is turning lights off.
+彼が私の車を駐車場に動かしている - He is moving my car to the parking lot.
+
+The てある form of transitive verbs is used to describe a resultant state after the action has already taken place.
+窓が開けてある - The windows are open.
+電気が消してある - Lights are turned off.
+私の車が駐車場に動かしてある - My car is moved to the parking lot.
+
+
+てある implies that someone did it for some purposes. On the other hand, the ている form of intransitive verbs is used to merely describe the statuses.
+
+窓が開いている 
+- The windows are open. 
+今日は暑いので、窓が開けてある 
+- Someone opened the windows because it's hot today.
+
+電気が消えている 
+- The light is turned off. 
+部屋に誰も居ないので、電気が消してある 
+- Someone turned the light off because no one is in the room.
+

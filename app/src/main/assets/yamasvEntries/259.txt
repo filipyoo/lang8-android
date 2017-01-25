@@ -1,0 +1,29 @@
+
+Using の After Verbs
+
+You can convert verbs into nouns by adding の after the u-form of verbs.
+
+走る の が好きです - I like running.
+泳ぐ の は楽しいです - Swimming is fun.
+
+You can use こと instead of の in this case.
+走る こと が好きです。
+泳ぐ こと は楽しいです。
+
+
+However, の, which follows verbs, in the following sentences are not used to convert verbs to nouns but used as pronouns.
+
+それを決める の は、彼です。
+The person who makes the decision is him. / It's him who makes the decision. 
+
+野菜を入れる の は、沸騰してからです。
+The time you add the vegetables is after the water is boiling. / You have to add the vegetables after the water is boiling.
+
+最後に彼を見た の は、昨日の２時頃です。
+The time when I saw him last was at about 2 o'clock yesterday.
+
+You can't use こと instead of の in this case.
+x それを決める こと は、彼です。
+x 野菜を入れる こと は、沸騰してからです。
+x 最後に彼を見た こと は、昨日の２時頃です。
+

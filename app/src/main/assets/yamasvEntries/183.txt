@@ -1,0 +1,24 @@
+
+How to count animals in Japanese.
+
+When you count objects in Japanese, you have to use counter depending on the type of object you are counting in most cases.
+For example, you have to use 匹 when you count dogs:
+
+私は、犬を３匹飼ってます。
+- I have three dogs.
+
+You can change the position of を:
+私は、犬３匹を飼っています。
+
+You can change the order of the object and the number. You have to add の after the number in this case.
+私は、３匹の犬を飼っています。
+
+There are mainly two counters when you count animals: 匹 and 頭. 
+It depends on the type of animals. You have to use 匹 when you count dogs, cats, rats, etc. On the other hand, you have to use 頭 when you count horses, bears, cows, etc.
+You may think you have to memorize the counter with each animal. Don't worry, there is an interesting rule. If the animal is smaller than human adults, you can use 匹. On the other hands, if the animal is bigger than human adults, you can use 頭.
+Therefore, we use 匹 when we count little pig, but we use 頭 when we count big pig.
+There are a few exceptions, but this rule applies to most cases.
+
+
+
+

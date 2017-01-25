@@ -1,0 +1,29 @@
+
+How to Describe Plural persons Using ら、たち and など
+
+
+There are a few cases when you should be aware of the difference between singular and plural in Japanese. 
+
+昨日、友人とパーティに行きました。
+Unlike English, this sentence is ambiguous about the number of friends. The listener can't know whether you went to the party with one friend or with plural friends. 
+If you want to clarify that you went to with two or more friends, you should add ら or たち after 友人:
+昨日、友人らとパーティに行きました。
+昨日、友人たちとパーティに行きました。
+
+など is also used to describe plural persons: 
+昨日、友人などとパーティに行きました。
+However, there is the difference of nuances. Since など is used to show an example,  "友人など" implies there is at least one person who isn't your friend. You can say "友人など" if there was one of your families or teachers, but you can't say it if you went to the party with only your friends.
+
+If there are only children in a park, you can say "子供らが公園にいます" or "子どもたちが公園にいます" but you can't say "子供などが公園にいます." "子供などが〜" means there are some persons who isn't a child.
+On the other hand, it's okay to say "子供らが公園にいます" or "子どもたちが公園にいます" even if there are some adults. 
+ 
+
+ら and たち can come only after persons, but you can use など after other things.
+
+x さっき、パンらを食べました。
+x さっき、パンたちを食べました。
+o さっき、パンなどを食べました。
+I ate bread and something else a minutes ago.
+
+
+

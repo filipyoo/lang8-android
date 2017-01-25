@@ -1,0 +1,65 @@
+
+Using 方(ほう)
+
+方 is used when you are comparing several, usually two, things. When it follows a noun, particle の is used between them. I think writing in hiragana is more common than writing in kanji.
+
+フランス語より日本語のほうがむずかしいと思う。
+- I think Japanese is more difficult than French.
+
+iPhoneよりソニーのエクスペリアのほうが安かったので、エクスペリアを買った。
+- I bought a Sony Experia because it was cheaper than an iPhone.
+
+It can also follow a verb. You can use both the dictionary form of the verb or the ta-form. There is no difference between them.
+
+バスに乗るより歩くほうが早い。
+バスに乗るより歩いたほうが早い。
+- It will be quicker to walk than to take a bus.
+(You can't use the ta-form for the first verb before より.)
+
+京都では西洋風のホテルより日本風の旅館に泊まるほうがいい。
+京都では西洋風のホテルより日本風の旅館に泊まったほうがいい。
+- Maybe you should stay at a Japanese style inn rather than a western style hotel in Kyoto.
+You can also say 京都では西洋風のホテル "に泊まる" より日本風の旅館に泊まるほうがいい, but it sounds a little redundant because the same verb is repeated.
+
+
+It can also follow an adjective. 
+
+赤いほうをください。
+- [In a shop:] I'll get the red one.
+This sentence implies there are a red one and another color one.
+
+冬は(暖かいより)寒いほうが好きだ。
+- I like a shivery day rather than warm one in winter.
+
+
+方 is also used to refer to a direction.
+
+左の方に東京タワーが見えます。
+- You can see Tokyo Tower on your left hand side.
+
+アメリカの方から来ました。
+- I'm from America.
+This is the same as アメリカから来ました, but many people say ～の方から来ました in a situation you don't have to say the exact area, such as Cortland, New York.
+
+東京タワーの方に行きます。
+This sentence is ambiguous. You don't know whether the speaker is going to Tokyo Tower or somewhere near it.
+
+
+方 is also pronounced as かた to refer to a person. It sounds more formal than 人. 
+
+あの赤いシャツを着た方はどなたですか?
+- Who is that gentleman wearing a red shirt.
+
+この方はこのレストランのオーナーです。
+- This is the owner of this restaurant.
+
+質問のある方はいませんか?
+- Does anyone have any questions?
+
+方々(かたがた) is the plural form of かた.
+
+ソニーの役員の方々と打ち合わせをする予定だ。
+- I'm having a meeting with board members of Sony.
+
+たくさんの海外の方々が私達の国を訪れます。
+- A lot of people from overseas visit our country.

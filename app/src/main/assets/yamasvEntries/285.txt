@@ -1,0 +1,37 @@
+
+The Momentary Verbs and The Action Verbs
+
+There are two types of verbs which represent actions. The first one is used to describe actions which complete in a brief moment:  stand up, sit down, drop, wear, and so on. The second one is used to describe actions which continue for a certain period: run, walk, talk, and so on.
+
+I don't know what are proper names to call them because I haven't learned Japanese in English. They are called 瞬間動詞 and 継続動詞 in Japanese. I'll call them "momentary verbs" and "action verbs" in this post. (Please teach me if you know the proper terms.)
+
+
+When ながら comes after the i-form of verbs, it means you are in the middle of doing something. It doesn't matter whether the verbs are momentary verbs or action verbs. (However, it's hard to come up with example sentences which include ながら comes after momentary verbs, because  momentary action is done in a brief moment.)
+
+彼はスーツを「着ながら」、その話をした。
+He told the story while he was wearing a suit.
+
+彼は「歩きながら」、その話をした。
+He told the story while he was walking.
+
+
+However, when ている comes after the i-form of verbs, there is a difference of meaning according to the type of the verbs.
+
+When ている comes after the i-form of momentary verbs, it's used to describe statuses that resulted from the action. The following two sentences don't mean he is in the middle of the actions.
+
+彼はスーツを「着ている」 - He wears a suit.
+彼はあそこに「立っている」 - He's standing over there.
+
+On the other hand, when ている comes after the i-form of action verbs,  it means you are in the middle of doing something in the same manner as when ながら comes after the verbs. 
+
+彼は「歩いている」 - He is walking.
+彼は新聞を「読んでいる」 - He is reading a newspaper.
+
+
+Similarly, the te-form of momentary verbs describes statuses that resulted from the action.
+
+彼はスーツを 「着て」、会社に行く - He goes to his office wearing a suit.
+彼は「立って」新聞を読んでいる - He's reading a newspaper while standing.
+
+
+

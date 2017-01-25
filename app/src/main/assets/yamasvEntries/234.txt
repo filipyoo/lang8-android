@@ -1,0 +1,38 @@
+
+How to choose between は or が when the sentence contains two clauses.
+
+
+彼女 が 日本に住んでいた時、よく友達が訪ねてきました。
+彼女 は 日本に住んでいた時、よく友達を訪ねました。
+彼女 が 日本に住んでいた時、大きな地震がありました。
+彼女 は 日本に住んでいた時、大きな地震を経験しました。
+
+Each of the sentences above has two clauses. The subject of the first clause in each of the sentences is 彼女, however not all second clauses have the same subject. 
+When two subjects of each clause are the same, you should use は. On the other hand, when two subjects are different, you should use が.
+(In other words, you should use は when the subject modifies the entire sentence. On the other hand, you should use が when the subject modifies only one clause.)
+
+彼女 が 日本に住んでいた時、よく友達が訪ねてきました。
+- When she lived in Japan, her friend often visited her.
+The subject of the second clause is 友達, which is different from 彼女. Therefore you should use が after 彼女.
+
+彼女 は 日本に住んでいた時、よく友達を訪ねました。
+- When she lived in Japan, she often visited her friend.
+The subject of the second clause is omitted but the one is 彼女, which is the same as the one of the first clause. Therefore you should use は after 彼女.
+
+彼女 が 日本に住んでいた時、大きな地震がありました。
+- When she lived in Japan, there was a big earthquake.
+The subject of the second clause is 地震, which is different from the one of the first clause. Therefore you should use が after 彼女.
+
+彼女 は 日本に住んでいた時、大きな地震を経験しました。
+- When she lived in Japan, she experienced a big earthquake.
+The subject of the second clause is 彼女, which is the same as the one of the first clause. Therefore you should use は after 彼女.
+
+
+
+彼 は 部屋に入ってきた時、泣いていました。- [A]
+When he entered the room, he was crying.
+彼 が 部屋に入ってきた時、彼女は泣いていました。
+When he entered the room, she was crying.
+
+You don't have to say 彼は泣いていました in sentence [A]. The listener can understand the subject of the second clause is 彼 with ease because you said "彼 'は'" first.
+If you say "彼 が 部屋に入ってきた時、泣いていました," the listener might not understand who was crying. 

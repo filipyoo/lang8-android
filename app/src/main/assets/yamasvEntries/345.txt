@@ -1,0 +1,23 @@
+
+Partial Negation in Japanese.
+
+すべての日本人が寿司を好きではない.
+
+This Japanese sentence means "No Japanese people like sushi. / All Japanese people hate sushi." If you want to say "Not all Japanese people like sushi," you should say "すべての日本人が寿司を好きなわけではない." You can use "わけではない" to negate "all," and it implies that "although that is applied in most cases."
+
+いつもこの店で昼ごはんを食べるわけではない。
+(I often eat lunch at hear, but ) I don't always have lunch at this restaurant. 
+
+私は日本人だけど、全ての漢字を書けるわけではない。
+Although I'm a Japanese person, it doesn't mean I can write all kanji. (Of course, I can write many kanji.)
+
+彼はすごい選手だが、全部の試合でゴールを決められるわけではない。
+He is a great player (and he scores many goals in many games), but he couldn't score goals in all games.
+
+
+You can also use 限らない to negate "all."
+
+すべての日本人が寿司を好きだとは限らない。
+いつもこの店で昼ごはんを食べるとは限らない。
+私は日本人だけど、全ての漢字を書けるとは限らない。
+彼はすごい選手だが、全部の試合でゴールを決められるとは限らない。

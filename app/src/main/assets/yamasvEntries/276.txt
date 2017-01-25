@@ -1,0 +1,34 @@
+
+Listing Two Nouns Without Particle
+
+
+You can modify a noun by a noun by using である when the modifying noun is appositive.
+
+日本の首都 である 東京はとても大きな街です。
+Tokyo, which is the capital of Japan, is a very big city.
+
+私の出身地 である 東京はとても大きな街です。
+Tokyo, where I was born, is a very big city.
+
+In this case, you can list the two nouns by omitting である。
+日本の首都、東京はとても大きな街です。
+私の出身地、東京はとても大きな街です。
+(It's not always necessary to use a comma before 東京, but "日本の首都東京" and "私の出身地東京" aren't easy to read. Therefore, I use a comma.)
+
+
+You can't exchange the two nouns:
+x 東京 である 日本の首都はとても大きな街です。
+x 東京 である 私の出身地とても大きな街です。
+x 東京、日本の首都はとても大きな街です。
+x 東京、私の出身地はとても大きな街です。
+
+
+Here are other examples.
+
+動画共有サイトであるYouTubeは私のお気に入りです。
+動画共有サイトYouTubeは私のお気に入りです。
+YouTube, which is a video-sharing website, is my favorite site.
+ 
+偉大な発明家であるエジソンはオハイオに生まれた。
+偉大な発明家エジソンはオハイオに生まれた。
+Tomas Edison, who was a great inventor, was born in Ohio.

@@ -1,0 +1,21 @@
+
+The other usage of 〜の〜.
+
+私は、エンジニアの父が好きです。
+
+Some of you may understand this sentence as: "I like a father of an engineer." It sounds a little bit strange if you understand like that. Most Japanese people would understand this sentence as: "I like my father, an engineer." エンジニア, before の, is in apposition to 父, after の, in this sentence.
+
+アメリカの大統領 の オバマ氏が東京に到着しました。 (アメリカの大統領 is in apposition to オバマ氏.)
+Barack Obama, president of the United States, has arrived in Tokyo.
+
+医者 の 私には、義務がある。 (医者 is in apposition to 私.)
+I have a duty as a doctor.
+
+彼女は、医者 の 田中さんの奥さんです。 (医者 is in apposition to 田中さん.)
+She is a wife of Dr.Tanaka.
+
+
+You can use である, which is used to define something, instead of の in these cases.
+アメリカの大統領 である オバマ氏が東京に到着しました。
+医者 である 私には、義務がある。
+彼女は、医者 である 田中さんの奥さんです。

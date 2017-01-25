@@ -1,0 +1,35 @@
+
+Causative and Passive Verbs
+
+1.
+In case of 5-row conjugation verbs, there are two forms of causative and passive form:
+読む - 読ませられる / 読まされる.
+作る - 作らせられる / 作らされる.
+待つ - 待たせられる / 待たされる.
+行く - 行かせられる / 行かされる.
+
+We usually use the latter form. You can make them by adding される after a-form of the verb.
+(There are exceptions. See the ビクトリア's comment below.)
+
+2.
+In case of 1-row conjugation verbs, you can make a causative and passive form by replacing る with させられる.
+
+食べる - 食べさせられる.
+覚える - 覚えさせられる.
+並べる - 並べさせられる.
+
+
+Be careful, causative and passive verbs are used when you are forced to do something and you have complaints about that in most cases.
+
+先生に本を読まされた.
+I was forced to read the book by my teacher.
+
+母に１時間も待たされた.
+I had to wait for my mother for one hour. / I was forced to wait for my mother for one hour.
+
+彼女の手料理を食べさせられた。
+I was forced to eat her homemade meal.
+(This Japanese sentence implied that the meal was awful. You should say 彼女の手料理を食べさせてもらった if you don't want to make her angry (even if it was awful.)
+
+
+

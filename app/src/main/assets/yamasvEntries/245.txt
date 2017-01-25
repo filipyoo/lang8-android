@@ -1,0 +1,55 @@
+
+The Usage of 〜によって
+
+〜によって is mainly used to describe instruments or reasons.
+
+彼は、株に投資すること によって 金持ちになった。
+He became rich by investing in the stock market.
+
+彼は、その映画 によって 有名になった。
+He became famous for the movie.
+
+このソフトウェア によって、写真の編集ができます。
+You can edit your photos by using this software.
+
+In all the sentences above, you can use で instead of によって.
+彼は、株に投資すること で 金持ちになった。
+彼は、その映画 で 有名になった。
+このソフトウェア で、写真の編集ができます。
+
+Since によって is a formal expression, it sounds unnatural to use it to describe the instruments of your daily actions.
+
+x 私は、毎日、車 によって 学校に行きます。
+o 私は、毎日、車 で           学校に行きます。
+I go to school with my car every day.
+
+? 私は、いつも、スマートフォン によって 知らない漢字の意味を調べます。
+o 私は、いつも、スマートフォン で           知らない漢字の意味を調べます。
+I usually check out the meaning of kanji which I don't know with my smart phone.
+
+
+によって can come after the person who did the actions in passive form. You can't replace によって with で in this case.
+
+o その絵は、鉛筆 によって 描かれました。
+o その絵は、鉛筆 で           描かれました。
+The picture was painted by pencil.
+
+o その絵は、有名な画家 によって 描かれました。
+x その絵は、有名な画家 で           描かれました。
+The picture was painted by a famous painter.
+
+o その城は、徳川家康 によって 建てられました。
+x その城は、徳川家康 で           建てられました。
+The castle was built by Ieyasu Tokugawa.
+
+
+によって is also used to mean "depend on."
+
+家具は部屋 によって 違います。
+All rooms have different furniture.
+
+明日の試合は、天気 によって は中止されます。
+The tomorrow's game will be cancelled depending on the weather.
+
+公共の場所での飲酒は、国 によって は犯罪です。
+Drinking in public places is against the law in some countries.

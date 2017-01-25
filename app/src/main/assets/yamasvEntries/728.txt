@@ -1,0 +1,26 @@
+
+Word Order In Japanese Sentence
+
+Unlike English, the word order in Japanese sentence is very flexible because particles help you to understand the meaning rather than the word order.
+All the following Japanese sentences are correct. I can't choose the best one to mean "I gave him chocolate."
+
+私は彼にチョコをあげました。
+私はチョコを彼にあげました。
+彼に私はチョコをあげました。
+彼にチョコを私はあげました。
+チョコを私は彼にあげました。
+チョコを彼に私はあげました。
+
+Therefore, you don't need to think carefully about the word order as long as you choose the right particle.
+
+Even "彼にチョコをあげました、私は。" is correct if you want to stress "私は." Similarly, "私は彼にあげました、チョコを。" or "私はチョコをあげました、彼に。" is correct in some situations. Especially, they are often used when the speaker is excited.
+
+However, we sometimes pay attention to the word order in order to avoid misunderstanding. 
+私は彼と彼女の家に行きました。
+This Japanese sentence is tricky. You can understand this sentence in two ways:
+"He and I went to her house." and
+"I went to his house and also to her house."
+
+If you mean the former, you can avoid misunderstanding by saying "彼と私は彼女の家に行きました." If you mean the latter, you should say ”私は彼の家と彼女の家に行きました."
+
+

@@ -1,0 +1,37 @@
+
+Dictionary Form of Verbs + ことがある
+
+You can use ことがある after the ta-form of verbs to describe your past experiences. 
+
+日本に行ったことがある。
+I've been to Japan before.
+
+NASAでスペースシャトルを見たことがある。
+I've seen the space shuttle at NASA before.
+
+
+ことがある can also follow the dictionary forms of verbs. It's used to describe what you often/sometimes experience.
+
+最近、朝早く目がさめることがある。
+Recently, I sometimes wake up early in the morning.
+
+このソフトは時々クラッシュすることがあるから、こまめにデータをセーブした方がいい。
+You should save data frequently because this software sometimes crashes.
+
+彼は、よく１人で部屋に閉じこもることがある。
+He often locks himself in his room.
+
+その犬は突然ほえることがある。
+That dog sometimes barks suddenly.
+
+
+You can't use it to describe specific or regular plans.
+x 明日、学校に行くことがある。
+o 明日、学校に行く。
+I'm going to school tomorrow.
+
+x 毎週日曜日に、買い物に行くことがある。
+o 毎週日曜日に、買い物に行く。
+I go shopping every Sunday.
+("日曜日に、買い物に行くことがある" is fine to mean "I sometimes go shopping on Sunday.")
+

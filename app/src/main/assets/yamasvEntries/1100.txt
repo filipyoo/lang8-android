@@ -1,0 +1,24 @@
+
+Using ～という点で
+
+"～という点で" means "in that ～." It's followed by your opinion and follows a sentence which explains why you think so.
+
+ドイツ人と日本人はよく働くという点で似ている。
+- German people and Japanese people are similar in that both work hard.
+
+この車は水に浮かぶという点で他の車と異なる。
+- This car differs from others in that it can float on water.
+
+信用は獲得するのに時間がかかるという点で貴重だ。
+- Confidence is precious in that you need long time to obtain it.
+
+日本語の文の構造は、公式な文書でさえ主語を省略することがよくあるという点で英語と大きく異る。
+- Japanese sentence structure widely differs from English's in that you can often omit the subject even when you write official documents.
+
+
+In all of the sentences above, the subject of each sentence which follows という点で is omitted because it's the same of that of the sentence which is followed by という点で.
+You can move the subject of each sentence to in the sentence which follows という点で like this:
+よく働くという点でドイツ人と日本人は似ている。
+水に浮かぶという点でこの車は他の車と異なる。
+獲得するのに時間がかかるという点で信用は貴重だ。
+公式な文書でさえ主語を省略することがよくあるという点で日本語の文の構造は英語と大きく異る。

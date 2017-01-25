@@ -1,0 +1,19 @@
+
+Common Mistakes About Past Tense Of Adjectives
+
+As you know, there are two types of adjectives in Japanese: na-adjectives and i-adjectives. When an adjective is used as a predicate in a sentence that describes the past event, you should be careful about the difference between them.
+
+When the adjective is a na-adjective, you should say でした/だった. On the other hand, in case of i-adjectives, you should say かった. I often see incorrect sentences that end with だった/でした even though which follows i-adjectives.
+
+ (When you say 〜かった politely, it would be かったです. You don't need to say でした.)
+
+きれい is a na-adjective, so "She was beatutiful" would be translated as "彼女はきれいだった/でした."
+美しい is a similar expression to きれい, but it's an i-adjective, so if you say that sentence using 美しい, you should say "彼女は美しかった(です)." "彼女は美しいでした" is incorrect.
+
+o その料理は美味しかった(です) - The dishes were delicious.
+x その料理は美味しいでした
+
+o その映画は面白くなかった(です) - The movie wasn't good.
+x その映画は面白いじゃなかった
+
+

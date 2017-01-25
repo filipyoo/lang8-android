@@ -1,0 +1,34 @@
+
+The Common Mistakes of ために and ように
+
+ために comes after the sentence which describes your intentions, and is followed by the sentence which describes your actions.
+When the subjects of each sentence are different, you can't use ために. You have to use ように in this case.
+
+o 私は試験に合格する ために、毎日一生懸命勉強している。
+I'm studying hard every day so that I can pass the exam.
+(Both subjects of each sentence are 私.)
+
+x 私が試験に合格する ために、兄が勉強を手伝ってくれる。
+o 私が試験に合格する ように、兄が勉強を手伝ってくれる。
+My brother helps my study so that I can pass the exam.
+
+x みんながよく理解する ために、私はゆっくり説明した。
+o みんながよく理解する ように、私はゆっくり説明した。
+I've explained slowly so that everybody can understand well.
+
+
+
+ために can't come after potential form of verbs.
+x 私は試験に合格できる ために、毎日一生懸命勉強している。
+o 私は試験に合格できる ように、毎日一生懸命勉強している。
+
+
+x 私は次の日の朝早く起きられる ために、いつもより早く寝る。
+o 私は次の日の朝早く起きられる ように、いつもより早く寝る。
+I will go to bed earlier than usual so that I can wake up early next morning.
+
+
+
+
+
+

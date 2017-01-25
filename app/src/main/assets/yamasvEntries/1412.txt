@@ -1,0 +1,22 @@
+
+Using 担保
+
+担保(たんぽ) is a noun that means "security/mortgage."
+
+家を担保に銀行から金を借りた。
+- I borrowed money from the bank on the security of my house.
+
+担保無しでそんな大金は借りられない。
+- You can't borrow such a lot of money without putting up collateral.
+
+
+It's also used as a suru-verb to mean to secure or guarantee. It sounds more formal than 保証する.
+
+自動運転の車が流行るかどうかはわからないけど、一番大切なことは安全が担保されることだ。
+- I'm not sure whether self-driving cars will become popular or not, but the most important thing is to secure safety.
+
+逮捕されないことが担保されるなら、全て話します。
+- I'll tell you everything if you guarantee that I won't be arrested.
+
+利子率は変わるかもしれないが、元本は担保されている。
+- The interest rate may change, but the principle is guaranteed.

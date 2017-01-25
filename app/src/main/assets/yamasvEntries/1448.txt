@@ -1,0 +1,37 @@
+
+The difference between たくさん and たくさんの
+
+たくさん is an adverb, which modifies a verb.
+
+私は寿司をたくさん食べました。
+- I had a lot of sushi.
+
+You can place an adverb anywhere as long as it's placed before the verb it modifies, so all of the sentences below are correct.
+
+私はたくさん寿司を食べました。
+たくさん私は寿司を食べました。
+
+(If there are so many words between them, it could sound slightly unnatural.)
+
+
+On the other hand, たくさんの is an adjective, which modifies a noun.
+
+私はたくさんの寿司を食べました。
+
+Generally, an adjective is placed just before the noun it modifies, so you can't say
+私は寿司をたくさんの食べました or
+たくさんの私は寿司を食べました.
+(The たくさんの in the latter sentence modifies 私, which comes after it. so it makes very weird phrase, "a lot of me.")
+
+The same rule is applied for between 少し and 少しの.
+
+- I know Japanese a little.
+私は日本語を少し知っています。
+私は少し日本語を知っています。
+少し私は日本語を知っています。
+
+私は少しの日本語を知っています。
+少しの日本語を私は知っています。
+(You can't place any word between 少しの and 日本語.)
+
+

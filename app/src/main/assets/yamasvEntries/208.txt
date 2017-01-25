@@ -1,0 +1,23 @@
+
+Common Mistakes about 天気
+
+x 今日の天気は暑いです。
+x 今日の天気は寒いです。
+x 今日の天気は涼しいです。
+
+All of the above sentences are incorrect. 天気 is only used to describe the look of the sky. (天 means "sky.")
+
+o 今日の天気は晴れです。
+o 今日の天気はくもりです。
+o 今日の天気は雨です。
+o 今日の天気は雪です。
+
+You shouldn't use 天気 to describe 暑い, 寒い, 涼しい etc.
+o 今日は暑いです。
+o 今日は寒いです。
+o 今日は涼しいです。
+
+You can also say 天気がいい or 天気が悪い. 天気がいい means "the weather is fine," and 天気が悪い means "it's raining."
+
+You can also say "今日は天気です." It means "the weather is fine today."
+

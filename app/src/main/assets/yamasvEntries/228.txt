@@ -1,0 +1,31 @@
+
+The Usage of Noun-modifying という
+
+
+
+彼は、英語を教えるという仕事をしている。
+- His job is teaching English.
+
+In this sentence in Japanese, "英語を教えるという" modifies the following noun 仕事. The clause "英語を教える" is the explanation of the job. 
+
+
+
+彼が会社を辞めるという噂を聞いた。
+- I heard the rumor that he is going to leave our company.
+
+In this sentence in Japanese, "彼が会社を辞めるという" modifies the following noun 噂. The clause "彼が会社を辞める" is the explanation of the rumor. 
+It's important that there is no comma between 彼が and 会社を. If you write "彼が、会社を辞めるという噂を聞いた," it means that "He heard the rumor that..." and the reader can't understand who is going to leave the company.
+
+
+
+彼が喜んでいるのは、東京でオリンピックが開かれるというニュースを聞いたからです。
+- The reason he looks happy is that he heard the news that the Olympic games will be held in Tokyo.
+
+In this sentence in Japanese, "東京でオリンピックが開かれるという" modifies the following noun ニュース. The clause "東京でオリンピックが開かれる" is the explanation of the news. 
+You should add a comma before "東京で," otherwise the reader would be confused that which part is the explanation of the news.
+
+
+
+
+
+

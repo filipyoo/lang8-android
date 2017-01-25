@@ -1,0 +1,24 @@
+
+The Usage of わけではない
+
+わけではない is used to negate the listener's impressions which are estimated from a previous sentence.
+
+米国に3年住んでいたことがあるが、流暢に英語が話せるわけではない。
+I have lived in America for three years, but I actually can't speak English fluently.
+
+彼は通訳と一緒に来日するが、日本語を話せないわけではない。
+He'll come to Japan with a translator, but it doesn't mean that he can't speak Japanese. (Actually, he can speak Japanese.)
+
+彼女は昨日退院したが、完治したわけではない。
+She left a hospital yesterday, although she actually didn't make a full recovery.
+
+
+You can place a sentence which includes わけではない first. The following sentences have the same meaning as each of the corresponding sentences above.
+
+私は流暢に英語が話せるわけではないが、実は米国に3年住んでいたことがある。
+彼は日本語を話せないわけではないが、通訳と一緒に来日する。
+完治したわけではないが、彼女は昨日退院した。
+
+
+
+

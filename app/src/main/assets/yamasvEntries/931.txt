@@ -1,0 +1,28 @@
+
+Using から to Describe the Time Something Starts
+
+会議は10時に始まります。
+- The meeting will start at 10.00.
+
+You can use から instead of に: 会議は10時から始まります。
+When you use から, you can omit the verb 始まる: 会議は10時からです。
+
+その工事は来週からです。
+- The construction will start next week.
+
+この店は9時からです。
+- This shop opens at 9:00.
+
+Similarly, you can use まで to describe the time something ends and omit the verb 終わります.
+
+会議は11時までです。
+- The meeting will end at 11:00.
+
+その工事は来週までです。
+- The construction will end next week.
+
+この店は午後9時までです。
+- This shop closes 9:00 pm.
+
+
+

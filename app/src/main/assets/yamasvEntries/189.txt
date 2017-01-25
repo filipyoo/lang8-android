@@ -1,0 +1,18 @@
+
+Adjectives which represent colors in Japanese.
+
+赤い、青い、白い、黒い. -  Red, blue, white and black.
+These words are adjectives which represent colors; after these words an い is added after the nouns that represent each color.
+The other colors don't follow this rule. You can't say 緑い, 茶い, 黃い, etc.
+You have to say them like this: 
+緑色の, 茶色の、黄色の etc. - Green, gray, yellow, etc.
+
+Why?
+
+In the ancient times of Japan, we recognized only four colors: red (赤), blue(青), white(白), and black(黒). You can add い directly to these nouns when you use these words as adjectives.
+All the rest of the colors were founded after those days. You cannot add い directly after them to modify nouns.
+
+You can say 〜色の for all colors, but it's more natural to say 赤い, 青い, 白い and 黒い for these four colors.
+
+You can say 〜色い for some colors:
+黄色い, 茶色い etc.

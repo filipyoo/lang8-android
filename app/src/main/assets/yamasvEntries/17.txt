@@ -1,0 +1,22 @@
+
+A) 昨日、学校に行く前に、朝ごはんを食べた
+I ate breakfast before I went to school yesterday.
+
+B) 明日、朝ごはんを食べた後に、学校に行く
+I will go to school after eating breakfast tomorrow.
+
+Although both of the above sentences are very natural for Japanese People, some English speakers may feel strange. 
+
+In A, you speak about the past but 行く is not past tense. However, "昨日、学校に行った前に、朝ごはんを食べた" is unnatural.
+
+At B, you speak about the future but 食べた is past tense. However, "明日、朝ごはんを食べる後に、学校に行く" is unnatural.
+
+
+The predicate of A is 食べた and the time when you went to school is later than the time when you ate breakfast, therefore you can't conjugate 行く into past tense.
+If you ate breakfast at school, you have to conjugate 行く into past tense, and say "昨日、学校に行った後に、朝ごはんを食べた."
+
+The predicate of B is 行く and the time when you will eat breakfast is earlier than the time you will go to school, therefore you have to conjugate 食べる into past tense.
+If you will eat breakfast at school , you can't have to conjugate 食べる into past tense , and you can say "明日、朝ごはんを食べる前に、学校に行く."
+
+
+

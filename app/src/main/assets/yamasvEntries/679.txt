@@ -1,0 +1,63 @@
+
+Math Related Expressions in Japanese
+
+足す/引く/掛ける/割る means add/minus/multiply/divide.
+
+1 足す 2 は 3。
+- One plus two equals three.
+
+3 引く 2 は 1。
+- Three minus two equals one.
+
+5 掛ける 4 は 20。
+- Five multiplied by four is twenty.
+
+6  割る 2 は 3。
+- Six divided by two equals three.
+
+余り means "remainder."
+
+5 割る 2 の余りは 1 です。
+- When five is divided by two, the remainder is one.
+
+When X is divisible by Y, you can say "XはYで割り切れる." "割り切れる" is the same that the remainder is zero.
+
+10 は 5 で割り切れます。(10を5で割った時の余りは0です。）
+- Ten is divisible by five. / When ten is divided by five, the remainder is zero.  
+
+10 は 3 では割り切れません。
+- Ten isn't divisible by three.
+
+2で割り切れる整数を"偶数"と呼びます。割り切れない整数は”奇数"です。
+- Any integer that can be divided exactly by 2 is called "even number." On the other hand, any integer that cannot be divided exactly by 2 is called "odd number."
+
+
+When you say a fraction, you can say X分(ぶん)のY, which is Y/X. You have to say the denominator first. 
+
+3分の1 足す 3分の2 は 1 です。
+- One third plus two third equals one.
+
+10 掛ける 2分の1 は 5 です。
+- Ten multiplied by one second makes five.
+
+
+"XのY乗(じょう)" means "X to the Yth power."
+
+10の6乗は100万です。
+- Ten to the 6th power is one million.
+
+2の20乗のことをメガと呼びます。
+- We call two to the 20th power "mega."
+
+
+割(わり) is often used to show a percentage. 1割 equals 10 percent.
+
+7割ほどの客が試合が終わる前に帰った。
+- About 70 percent of the audience left the stadium before the game ended.
+
+今日は全ての商品が3割引です。
+- All items are 30 percent off today.
+
+
+Please let me know if you have math related expressions you don't know in Japanese.
+

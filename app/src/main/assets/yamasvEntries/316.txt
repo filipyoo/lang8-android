@@ -1,0 +1,42 @@
+
+The Usage of 終える and 終わる
+
+終える is a formal expression, which is mainly used in written Japanese. It's used only with particle を.
+
+I came back to the dormitory after finishing summer vacation.
+o 夏休みを終えて、寮に戻った.
+x 夏休みが終えて、寮に戻った.
+
+Finally, I've finished my homework.
+o やっと宿題を終えた
+x やっと宿題が終えた
+
+
+終わった is used with particle が, and you can't use 終わった with particle を.
+o 夏休みが終わって、寮に戻った.
+x 夏休みを終わって、寮に戻った.
+
+o やっと宿題が終わった
+x やっと宿題を終わった
+
+
+"〜を終わる" is used when you'll finish something; it's only used by the actor of the actions.
+
+I'll end my presentation. - 私のプレゼンを終わります。
+Other people, who don't make the presentation, can't say "彼のプレゼンを終わります." They have to say "彼のプレゼンが終わります" or "彼のプレゼンは終わります."
+
+
+終える and 終わる can come after the i-form of verbs.  In this case, you have to use を after an object.
+
+Finally, I've finished writing this paper.
+o やっと、この論文を書き終えた
+x やっと、この論文が書き終えた
+x やっと、この論文が書き終わった
+o やっと、この論文を書き終わった
+
+Today, I had a nap after finishing lunch.
+今日、昼食を食べ終えた後、昼寝をした。
+今日、昼食を食べ終わった後、昼寝をした。
+
+
+

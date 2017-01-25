@@ -1,0 +1,32 @@
+
+Indirect Speech in Japanese
+
+Unlike English, you don't have to change the tense in indirect speech.
+
+彼女は、「雨が降っている」と言った - She told me "It's raining."
+彼女は、雨が降っていると言った - She told me that It was raining.
+If you say "彼女は雨が降っていたといった," it means that it had been raining before then but stopped.
+
+彼は、「ちょうど今着いた」と言った。- He said "I've just arrived."
+彼は、ちょうど今着いたと言った。- He said that he had just arrived.
+
+
+Of course, you have to change the subject and the object in some cases.
+
+彼は、「君が好きだ」と言った。- He said "I like you" to me.
+彼は、私が好きだと言った。 - He said that he liked me.
+(Similarly, if you say "彼は、私が好きだったと言った," it means that he didn't like you then.)
+
+
+Unfortunately, there is a little complicated rule.
+
+彼は、「君に千円あげる」と言った。- He said "I'll give you one thousand yen."
+
+"彼は、私に千円あげると言った" isn't a correct indirect speech form of the Japanese sentence. You have to say "彼は、私に千円'くれる'と言った." Since くれる/あげる have a direction, you have to change the word.
+
+彼は、「手伝ってあげる」と言った。- He said that "I'll help you."
+彼は、手伝ってくれると言った。- He said that he would help me.
+
+
+
+

@@ -1,0 +1,19 @@
+
+A verb + ている
+
+私は彼と歩いている。
+私は彼を知っている。
+
+Both of the above sentences look similar, because both sentences end with ている after a verb. However, there are major difference between them. I would like to explain that in this post.
+
+There are two major types of verbs. One indicate an action which has a duration, and the other indicate an action which doesn’t have a duration. One grammar page calls the former “continual verbs”, and call the latter “punctual verbs.” I will use them. 歩く is a continual verb. When ている follows a continual verb, it means specific action is in progress. Therefore, 私は彼と歩いている means “I am walking with him.”  
+Here are some examples using ている after continual verbs.
+・私は、日本語を勉強している - I am learning Japanese.
+・彼は、コーヒーを飲んでいる - He is drinking coffee.
+・彼らは、バスケットボールをしている - They are playing basketball.
+
+On the other hand, when ている follows a punctual verb, it doesn’t mean that specific action is in progress. It indicates a certain status. Since 知る is a punctual verb, 私は彼を知っている would be translated as “I know him.” (Not “I am knowing him.”)
+Here are some examples using ている after continual verbs.
+・打ち合わせは、始まっている - The meeting has started.
+・彼女は、車に乗っている - She is in the car.
+・彼は、もう着いている - He had already arrived.

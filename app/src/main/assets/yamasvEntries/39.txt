@@ -1,0 +1,60 @@
+
+How to Use Punctuation Marks When You Write Japanese Sentence.
+
+(This is not my opinion, I just tried to translate the following page into English. However, I agree all of them.)
+
+<a href="http://itpro.nikkeibp.co.jp/article/COLUMN/20110527/360777/" target="_blank">http://itpro.nikkeibp.co.jp/article/COLUMN/20110527/360777/</a>
+
+You can't write a Japanese sentence without using punctuation marks (句点 "。" and 読点 "、".) You may use them without forethought.
+What's the problem with the following sentences?
+
+当社では社員が、増え続けており社屋が、手狭になった。
+パリ、ロンドン、ミラノに、出張で回ってくる。
+今回の試験には受験資格が設定されている。（45歳以下。）
+
+All of them are not easy to read because punctuation marks on them are not used properly.
+
+Here are rules when you use 句点 "。.”
+
+Rule 1; when you use parenthesis, you need to put 句点 after the right parenthesis.
+Example：簡潔な文章を書くポイントの1つは一文を短くすることである（50文字以内）。
+
+Rule 2; when you write an author name or credit in parenthesis and put them at the end of a sentence, you need to put 句点 before left parenthes.
+Example：日中韓3カ国首脳が共同会見を3時から行う予定である。（ITpro通信）
+
+Rule 3;　when you end a sentence with "！" or "？", you can't use 句点.
+Example：現状のグローバル化を逃れることができるか？
+
+
+Next, You need to observe the following six rules when you use 読点 "、".
+
+Rule1; You need to put 読点 after the subject.
+Example 1：当社は、今期社員増の予定です。
+Example 2：私は、彼に感謝した。
+
+Rule 2;　you need to put 読点 between two sentences.
+Example：佐藤部長は今月分の売り上げ見込み数字を伝え、木下課長は今月の受注数字を伝えた。
+
+Rule 3;　when you list words, you need to put 読点 after each word, but you don't need to put it after the last word.
+Example：その本は北京、上海、台湾で翻訳されている。
+
+Rule 4;　you need to put 読点 in order to clear where the modifier qualifies.
+Example：1万円の時計のベルトを選んだ。
+　　　　　　　↓
+1万円の時計の、ベルトを選んだ。← "1万円の時計" qualifies "ベルト". (The price of the watch is ten thousand yen.)
+1万円の、時計のベルトを選んだ。← "1万円の" qualifies "ベルト".  (The price of the belt is ten thousand yen.)
+
+Rule 5;　you need to put 読点 after a conjunction.
+Example：K社での商談は盛り上がった。しかし、いまだに受注はできていない。
+
+After applying these rules, the original sentences changed like this.
+
+当社では社員が増え続けており、社屋が手狭になった。← rule 2 of 読点.
+パリ、ロンドン、ミラノに出張で回ってくる。← rule 3 of 読点.
+今回の試験には受験資格が設定されている（45歳以下）。← rule 1 of 句点.
+
+Major reason for using punctual marks is making them easy to read. Wrong usage may change the meanings. Put them by following these rules.
+
+
+
+

@@ -1,0 +1,40 @@
+
+Intransitive Verb and Transitive Verb in Japanese
+
+開く is an intransitive verb and 開ける is a transitive verb. 
+
+ドアが開いた - The door opened. 
+ドアを開けた - I opened the door.
+
+Intransitive verbs have the ている form. 
+ドアが開いている - The door is open.
+
+On the other hand, transitive verbs have the てある form.
+ドアが開けてある - The door is opened (by someone).
+
+"ドアが開いている" merely means "the door is open," but "ドアが開けてある" implies that the speaker thinks that someone opened the door intentionally. You can't say "風でドアが開けてある." You have to say "風でドアが開いている (The door is opened by wind.)"
+
+If you see a window is open and you think that someone must open the window because of the hot weather, you can't say "暑いから窓が開いている." You have to say "暑いから窓が開けてある."
+
+
+There are a lot of pairs of an intransitive verb and a transitive verb.
+消える - 消す
+落ちる - 落とす
+続く - 続ける
+始まる - 始める
+壊れる - 壊す
+冷える - 冷やす
+
+Most transitive verbs are used to describe someone's intentional actions.
+私は、勉強を続ける - I'll continue to study.
+私は、車を壊した - I broke my car (intentionally). 
+
+On the other hand, you can't use a person as the subject of an intransitive verb.
+x 私は、勉強を続く。
+o 私の勉強は、続く。
+- My study will continue.
+
+x 車が、壊した。
+o 車が、壊れた。
+- My car broke down.
+(壊れる isn't the passive form of 壊す. The passive form of that is 壊される.)

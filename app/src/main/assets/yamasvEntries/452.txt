@@ -1,0 +1,33 @@
+
+How to Say "how it works" in Japanese
+
+"電話はどう動くか" is a literal translation of "how telephones work," but this Japanese sentence sounds a little unnatural. It's not easy to translate "work" into Japanese. "電話の仕組み" sounds natural to say that.
+
+ビットコインの仕組みを知りたい。
+I'd like to know how bitcoin works.
+
+ハイブリッド車の仕組みをこの本で勉強するつもりだ。
+I'm going to study how hybrid cars work from the book.
+
+電波望遠鏡の仕組みがわからない。
+I don't know how radio telescopes work.
+
+
+It's better to translate "how to 〜" into nouns by using 方(かた) in many cases. 方 follows the masu form of verbs to mean "how to 〜 / the way to 〜."
+
+ケーキの作り方を教えて。
+Can you tell me how to make a cake?
+(It sounds better than "どうやってケーキを作るかを教えて.)
+
+スカイプのインストールのやり方を知りたい。
+I'd like to know how to install Skype.
+(It sounds better than "どうやってスカイプをインストールするかを知りたい.)
+
+I don't know how to wear kimono.
+着物の着方(きかた)がわからない。
+(It sounds better than "どうやって着物を着るかわからない.)
+
+I don't know how to read this kanji.
+この漢字の読み方がわからない。
+(It sounds better than "どうこの漢字を読むかわからない.)
+

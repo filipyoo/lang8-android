@@ -1,0 +1,19 @@
+
+Omission of a Term in Comparison
+
+アメリカの人口は日本の人口より多い。
+アメリカの人口は日本のそれより多い。
+The population of America is larger than that of Japan.
+
+Both of the two sentences above are correct, but they sound slightly lengthy. You can say "アメリカの人口は日本より多い." You don't need to say 人口 or それ after 日本 because it's implied.
+
+You can omit the term that is surrounded by parensethis in each of the following sentences.
+
+彼の性格は父親(の性格)に似ている。
+His character is similar to that of his father.
+
+彼の給料は私(の給料)より多い。
+His salary is more than mine.
+
+日本の気候は私達の国(の気候)とかなり違う。
+Japan's climate is very different from that of our country.

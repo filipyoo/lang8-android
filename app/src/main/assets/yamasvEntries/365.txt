@@ -1,0 +1,41 @@
+
+Common Mistakes About "Small"
+
+"Small" can be translated into various Japanese: not only 小さい but also 短い, 狭い, or 少ない.
+
+(? : sounds unnatural. x : incorrect. o : correct.)
+
+Small novel
+x 小さい小説
+o 短い小説
+
+Small sentence
+x 小さい文章
+o 短い文章
+
+Small distance
+x 小さい距離
+o 短い距離
+
+Small room
+? 小さい部屋
+o 狭い部屋
+
+Small world
+? 小さい世界
+o 狭い世界
+
+Small quantity
+x 小さい量
+o 少ない量
+
+Small population
+x 小さい人口
+o 少ない人口
+
+Small income
+x 小さい収入
+o 少ない収入
+
+
+Similarly, you shouldn't translate "large" into "大きい" in the opposite cases.

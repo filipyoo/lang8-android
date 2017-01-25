@@ -1,0 +1,31 @@
+
+Common Japanese mistakes related to an adjective.
+
+There are two types of adjectives: I-adjective and Na-adjective.
+
+A Na-adjective ends with だ when it is used as predicates in frank sentence.
+○ その花は、きれいだ。
+○ 彼は、日本語が、上手だ。
+
+On the other hand, the following two sentences are incorrect:
+x 彼女は、美しいだ。
+x その料理は、おいしいだ。
+美しい and おいしい are I-adjectives and you don’t have to add だ after an I-adjective when it is used as predicates.
+○ 彼女は、美しい。
+○ その料理は、おいしい。
+
+Both adjectives end with です when it is used as predicates in polite sentences.
+○ 彼女は、美しいです。
+○ その料理は、おいしいです。
+○ その花は、きれいです。
+○ 彼は、日本語が、上手です。
+
+When you change the above polite sentences in past tense, you need to pay attention the difference of adjectives. In case of Na-adjectives, you have to change です into past tense:
+○ その花は、きれいでした。
+○ 彼は、日本語が、上手でした。
+In case of I-adjectives, it’s incorrect to change です into past tense:
+x 彼女は、美しいでした。
+x その料理は、おいしいでした。
+You have to change an adjective into past tense, and don’t have to change です into past tense:
+○ 彼女は、美しかったです。
+○ その料理は、おいしかったです。

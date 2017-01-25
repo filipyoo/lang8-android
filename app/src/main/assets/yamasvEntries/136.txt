@@ -1,0 +1,29 @@
+
+The relation between a predicate of the sentence and は/が.
+
+Only nouns, verbs, and adjectives can become a predicate in most Japanese sentence,. Therefore, most Japanese sentences can be categorized into three types by their predicate's type.
+
+Basically, は follows the subject in the sentences whose predicate is a noun or an adjective. (Since it is difficult in the case of the sentence whose predicate is a verb, I won't explain it in this post.)
+
+1. 私は、学生です。(I'm a student.) [学生 is a noun.]
+2. 彼女は、美しい。 (She is beautiful.) [美しい is an adjective.]
+
+If you use が instead of は in those sentences, the sentence gives the different impression:
+私は、学生です implies that you don't know whether other people are students or not.
+私が、学生です implies that you are a only student in a group.
+彼女は、美しい implies that you don't know whether other people are beautiful or not.
+彼女が、美しい implies that other people are not beautiful.
+
+In other words, if は follows the subject in the sentence whose predicate is a noun or an adjective, は have effect to eliminate other things except the subject itself. 
+
+誰がチームのキャプテンですか? - Who is a captain of this team?
+私はキャプテンです。
+This answer is unnatural. You should answer "私'が'キャプテンです."
+
+
+
+Be careful, I don't mean that a noun which is followed by は/が is the subject of the sentence.
+
+頭が痛い。
+
+In this sentence, the subject is 私は and it is omitted.

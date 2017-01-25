@@ -1,0 +1,24 @@
+
+How to List Two Appositive Nouns in Japanese
+
+Like in English, you can list appositive nouns in Japanese. The order of the two nouns is opposite to that in English. (You can never modify nouns from the behind in Japanese.)
+
+日本の偉大な作家、村上春樹は、京都に生まれた。
+Haruki Murakami, Japanese great writer, was born in Kyoto.
+
+日本の首都、東京は、世界で最も物価の高い都市の１つとしても知られている。
+Tokyo, the capital of Japan, is also known as one of the most expensive city in the world.
+
+日本人の好きな食べ物の１つ、カレーライスの作り方を教えます。
+I'll share with you how to cook curry rice, one of the most favorite food for many Japanese people.
+
+
+You can connect the two nouns by using である or の. である sounds more formal than の.
+日本の偉大な作家 である 村上春樹は、京都に生まれた。
+日本の首都 である 東京は、世界で最も物価の高い都市の１つとしても知られている。
+日本人の好きな食べ物の１つ である カレーライスの作り方を教えます。
+
+日本の偉大な作家の村上春樹は、京都に生まれた。
+日本の首都 の 東京は、世界で最も物価の高い都市の１つとしても知られている。
+日本人の好きな食べ物の１つ の カレーライスの作り方を教えます。
+

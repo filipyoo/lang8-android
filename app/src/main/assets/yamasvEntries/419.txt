@@ -1,0 +1,19 @@
+
+Japanese Passive Form and Potential Form of Verbs
+
+The passive form and the potential form of a verb are the same in some cases. 食べられる is the passive form of 食べる and is also the potential form.
+
+ケーキを弟に食べられた。
+My cake was eaten by my brother.
+
+あの大きいケーキを弟が一人で食べられたとは思えない。
+I don't think that my brother was able to eat that large cake all by himself.
+
+By the way, some Japanese people say 食べれる instead of 食べられる when it's used as the potential form. That's called "ら抜き言葉" because ら is omitted. Many textbooks say that it's technically incorrect. However, some people claim that omitting ら in potential form is fine because it's mistakable that the passive form and the potential form are the same. I think this claim has a point. Omitting ら in the potential form might become common in the near future.
+
+Here are other examples of ら抜き言葉. (られる is technically correct. However, many Japanese people omit the ら in these verbs.)
+出れる - 出られる
+来れる - 来られる
+着れる - 着られる
+
+

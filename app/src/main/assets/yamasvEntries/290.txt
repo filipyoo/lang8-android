@@ -1,0 +1,18 @@
+
+The Difference Between いけない and ならない
+
+You can use いけない to describe obligations or rules, and you can also use いけない to describe suggestions or recommendations.
+On the other hand, ならない can also be used to describe obligations or rules, but it's unnatural to use ならない to describe suggestions or recommendations.
+
+You can't smoke in this office.
+o この事務所でタバコを吸ってはいけない.
+o この事務所でタバコを吸ってはならない.
+
+You shouldn't smoke for your health.
+o 健康のために、タバコを吸ってはいけない.
+? 健康のために、タバコを吸ってはならない. (Sounds unnatural)
+
+I should eat sushi when I visit Japan.
+o 日本に行ったら、寿司を食べないといけない。
+x 日本に行ったら、寿司を食べないとならない。
+The latter sentence sounds as if eating sushi is a unavoidable obligation in Japan.

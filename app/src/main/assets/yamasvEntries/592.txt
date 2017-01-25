@@ -1,0 +1,54 @@
+
+Using 〜そうだ
+
+〜そうだ can be used to describe both your guesses and hearsay.
+
+When it follows i-adjectives, it's used to describe hearsay.
+
+この店のケーキは美味しいそうだ。
+- They say that the cakes in this shop are yummy.
+
+この本は面白いそうだ。
+- I heard that this book is very interesting.
+
+When you describe your guesses, you have to omit the last い.
+
+この店のケーキは美味しそうだ。
+- The cakes in this shop look yummy.
+
+この本は面白そうだ。
+- This book seems to be interesting.
+
+
+When it follows na-adjectives and だ, it's used to describe hearsay.
+
+アメフトのルールは複雑だそうだ。
+- I heard that the rules of American football are very complicated.
+
+その試験は簡単だそうだ。
+- They say that the exam is easy.
+
+You have to omit the だ when you describe your guesses.
+
+アメフトのルールは複雑そうだ。
+- The rules of American football seem to be very complicated.
+
+その試験は簡単そうだ。
+- The exam seems to be easy.
+
+
+When it follows the dictionary form of verbs, it's used to describe hearsay.
+
+彼は仕事を辞めるそうだ。
+- I heard that he is going to quit his job.
+
+午後に雨が降るそうだ。
+- The weather report says that it'll rain this afternoon.
+
+When it follows the masu-stem of verbs, it's used to describe your guesses.
+
+彼は仕事を辞めそうだ。
+- I think that he will quit his job.
+
+午後に雨が降りそうだ。
+- It seems to rain this afternoon.

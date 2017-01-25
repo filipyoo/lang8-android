@@ -1,0 +1,27 @@
+
+Using あげる, くれる and もらう
+
+I know あげる, くれる and もらう are one of the most confusing Japanese grammars for some of you, but it's very useful because they make the direction of services clear.
+
+くれる is used when someone else does something for you, and あげる is used when you do something for someone else.
+
+弟はピザが好きです。よく作ってあげます。
+- My brother likes pizza. I often cook it for him.
+The second sentence doesn't have the subject, so you may think that the subject of that is 弟. However, the subject is 私 because あげます is used. No Japanese person would be confused.
+
+弟はピザが好きです。よく作ってくれます。
+- My brother likes pizza. He often cooks it for me.
+
+
+もらう is also used when someone else does something for you. もらう is mainly used when you ask it, and くれる is used when someone else offers it. When you say もらう, you have to use に after the person who does something for you. When you say くれる, you have to use が after the person.
+
+彼に頼んで車で家まで送ってもらった。
+- I asked him to drive me home, and he did.
+
+家に帰る途中で怪我したけど、たまたま通りがかった人が家まで車で送ってくれた。
+- I was injured on my way home, but someone who happened to pass by drove me home.
+
+
+スタイリストに髪を切ってもらった。
+- I had a hair stylist cut my hair.
+If you say "スタイリストが髪を切ってくれた," it may sound as if the stylist cut your hair for free.

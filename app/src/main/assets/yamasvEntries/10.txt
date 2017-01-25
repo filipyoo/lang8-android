@@ -1,0 +1,36 @@
+
+Is に And へ Interchangeable?
+
+A:
+学校に行く
+病院に通う
+京都に旅行する
+カナダに留学する
+
+B:
+タクシーに乗る
+犬にえさをやる
+弟に会う
+
+
+You can replace に into へ in expressions of group A. 
+◯ 学校へ行く
+◯ 病院へ行く
+◯ 京都へ旅行する
+◯ カナダへ留学する
+
+You can't replace に into へ in expressions of group B. 
+☓ タクシーへ乗る
+☓ 犬へえさをやる
+☓ 弟へ会う
+
+
+What is a difference between A and B? 
+Each object in group A (学校/病院/京都/カナダ) is a place and each one in group B (タクシー/犬/弟) is not a place.
+へ means DIRECTION. Therefore, you can't use へ after an object which doesn't mean a place.
+You can say 弟の家に行く ,弟の家へ行く, and 弟に会いに行く. But you can't say 弟へ会いに行く.
+
+Since へ means direction, you can say 学校へ行く but can't say 学校へ着く. You should say 学校につく.
+(Some Japanese people may say 学校へ着く, but it is an unnatural expression.)
+
+

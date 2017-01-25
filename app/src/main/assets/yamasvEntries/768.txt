@@ -1,0 +1,29 @@
+
+Using 〜のは〜からです to Show a Reason
+
+You can say it to show a reason. のは follows an action to do, and is followed by a reason.
+
+遅れたのは、道路が混んでたからです。
+- The reason I was late is because of the traffic jam
+
+The more formal expression of this sentence would be "遅れた理由は、道路が混んでたからです."
+When you use a noun as a reason, you can say のせいです or のためです:
+遅れたのは、渋滞のせいです。
+遅れたのは、渋滞のためです。
+(せいです is used in a negative sentence.)
+
+日本語を勉強しているのは、日本に留学したいからです。
+日本語を勉強しているのは、日本への留学のためです。
+- The reason I'm studying Japanese is because I'd like to study in a Japanese university.
+(You can't say 留学のせいです in this sentence, because this isn't a negative sentence.)
+
+彼が毎日早く帰るのは、奥さんが入院しているからです。
+- The reason he leaves office early every day is because his wife is in hospital.
+
+貯金しているのは、新しい車が欲しいからです。
+貯金しているのは、新しい車のためです。
+- The reason I'm saving money is because I'd like to buy a new car.
+
+日本に行くのは、富士山に登りたいからです。
+日本に行くのは、富士山(の)登山のためです。
+- The reason I'm going to Japan is to climb Mt. Fuji.

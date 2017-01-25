@@ -1,0 +1,28 @@
+
+Unique usage of ながら.
+
+ながら is mainly used to describe concurrent actions.
+<a href="http://lang-8.com/605858/journals/95953532343009160124978591064043352966" target="_blank">http://lang-8.com/605858/journals/95953532343009160124978591064043352966</a>
+
+You can also use ながら/ながらも as the meaning of "but / even though." 
+
+彼は警察官であり ながら、長い間わいろを受け取っていた。
+Even though he is a police officer, he has taken payoffs under the table for a long time.
+
+彼は小学生ながら、ほとんどの漢字を知っている。
+Even though he is an elementary school student, he knows almost all kanji.
+
+その家族はとても貧しい ながらも 幸せに暮らしていた。
+The family was very poor but they lived happily.
+
+彼は全部知ってい ながら、何も教えてくれなかった。
+He knew everything but he didn't tell me anything.
+
+
+くせに is similar with ながら, but it is used only in negative sentences.
+
+◯　彼は警察官の くせに、長い間わいろを受け取っていた。
+☓　彼は小学生の くせに、ほとんどの漢字を知っている。
+☓　その家族はとても貧しい くせに、 幸せに暮らしていた。
+◯　彼は全部知っていた くせに、何も教えてくれなかった。
+

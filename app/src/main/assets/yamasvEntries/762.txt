@@ -1,0 +1,35 @@
+
+The Subject When A Sentence Contains Two Clauses
+
+When a sentence contains two clauses, the difference between は and が is very important.
+
+
+彼 は 気分が良くなかったので、一日中家にいました。
+
+When は is used, the subject covers two clauses when the other clause doesn't have the subject, so the subject of the second clause of the sentence is also 彼. Therefore, you don't have to say"彼は、気分が良くなかったので、彼は、一日中家にいました." The second 彼は is redundant. The original sentence means "He stayed at home all day because he didn't feel well."
+
+彼 が 気分が良くなかったので、一日中家にいました。
+
+When が is used, the subject covers only the clause. Therefore, the listener would think that the subject of the second clause is the speaker. They would read this sentence as "Since he didn't feel well, I stayed at home all day (to take care of him.)"
+
+
+私はドアを開けると、出て行きました。
+I opened the door and went out.
+
+私がドアを開けると、出て行きました。
+This sentence is confusing. The listener wouldn't understand who went out. If the sentence follows another sentence "犬が部屋にいました," the listener would definitely think that the dog went out.
+犬が部屋にいました。私がドアを開けると、出て行きました。
+There was a dog in the room. The dog went out when I opened the door.
+
+
+彼は宝くじに当たったらどうしますか？
+What would he do if he won the lottery?
+
+彼が宝くじに当たったらどうしますか？
+What would you do if he won the lottery. 
+(The subject of どうしますか isn't 彼 because が follows 彼.)
+
+
+
+
+

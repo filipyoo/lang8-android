@@ -1,0 +1,43 @@
+
+Japanese Present Perfect Continuous
+
+There is no major difference between present continuous and present perfect continuous in Japanese. You can use ている in the both sentences.
+
+私は日本語をずっと勉強している
+I've been studying Japanese for a long time.
+私は今日本語を勉強している
+I'm studying Japanese now.
+
+You can use てきている to describe the present perfect continuous if you want to clarify the difference. If you say "日本語を勉強している," the listener wouldn't know whether you are studying now or you have been studying since before. However, "日本語を勉強してきている" means that you have been studying Japanese for a certain period.
+
+私はずっとヤンキースを見てきている。
+I've been watching the Yankees for a long time.
+
+私は10年間、この会社のために働いてきている。
+I've been working for this company for 10 years.
+
+私は長年教師として働いてきている。
+I've been working as a teacher for many years.
+
+You can use the past tense てきた instead of きている.
+私はずっとヤンキースを見てきた。
+私は10年間、この会社のために働いてきた。
+私は長年教師として働いてきた。
+However, some listeners might think that you are going to stop the action if you use the past tense.
+
+
+It sounds unnatural to use てきている when the time is short. ている sounds more natural when the time is a few hours or shorter.
+
+I've been studying Japanese for three hours.
+? 日本語を3時間勉強してきている。
+o 日本語を3時間勉強している。
+
+I've been running for two hours.
+? 2時間走ってきている。
+o 2時間走っている
+
+I've been running for two years every morning.
+o 2年間、毎朝走ってきている。
+o 2年間、毎朝走っている。
+
+

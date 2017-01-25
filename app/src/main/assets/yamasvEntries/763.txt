@@ -1,0 +1,40 @@
+
+Common Mistakes about 多い
+
+多い is mostly used as the predicate.
+
+彼は友達が多い。 - He has a lot of friends.
+
+In this sentence, you can't place 多い before the 友達. You have to say 多くの or たくさんの. 多くの sounds more formal than たくさんの.
+
+x 彼には多い友達がいる。
+o 彼にはたくさんの友達がいる。
+o 彼には多くの友達がいる。
+
+A lot of people visit this beach in summer.
+x 夏に多い人がこのビーチを訪れます。
+o 夏に多くの人がこのビーチを訪れます。
+o 夏にたくさんの人がこのビーチを訪れます。
+
+You need a lot of money to live well in this country.
+x この国で快適に暮らすには、多いお金が必要です。
+o この国で快適に暮らすには、多くのお金が必要です。
+o この国で快適に暮らすには、たくさんのお金が必要です。
+
+
+インドは人口の多い国です。- India is a country that has a high population.
+In this sentence, the 多い itself doesn't modify 国. "人口の多い" does. 多い modifies 人口. As far as I know, there is no case that 多い itself modifies a noun which follows it.
+
+
+少ない is also mainly used as the predicate, but there is a little case that 少ない itself modifies a noun which follows it: 少ないお金 or 少ない時間.
+
+私達は、少ない時間でそれを作った.
+- We have built it in a short time. 
+
+この国では、少ないお金で快適に暮らせます。
+- You can live well with little money in this country. 
+
+
+
+
+

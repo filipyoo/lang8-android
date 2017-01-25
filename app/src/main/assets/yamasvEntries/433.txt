@@ -1,0 +1,49 @@
+
+Common Mistakes about Adverb よく
+
+You can't use よく in negative sentences. You should use あまり in this case.
+
+o 私は、よく魚を食べます。
+I eat fish very often.
+x 私は、よく魚を食べません。
+o 私は、あまり魚をたべません。
+I don't eat fish very often.
+
+o 最近、日本語をよく勉強しています。
+Recently, I've been studying Japanese well
+x 最近、日本語をよく勉強してません。
+o 最近、日本語をあまり勉強してません。
+Recently, I haven't studied Japanese well.
+
+("私の成績はよくありません" is correct because this よくありません is an adjective, not an adverb. It's a polite negative form of よい.)
+
+When よく is used to mean "thoroughly/ carefully / closely / exactly," you can use it with a negative sentence. 
+よくわからない/よく知らない
+よく考えないで返事した
+よく見なかったので気づかなかった
+
+
+よく can't be used to express your emotions or desires. You should use とても, すごく etc.
+
+x 私は、魚がよく好きです。
+o 私は、魚がとても好きです。
+I like fish very much.
+
+x 私は、新車がよく欲しいです。
+o 私は、新車がとても欲しいです。
+I'd like to buy a new car very much.
+
+x 日本によく行きたいです。
+o 日本にすごく行きたいです。
+I'd like to visit Japan very much.
+
+
+Since よく is an adverb, you can't use it to modify an adjective.
+
+x 私は、よくうれしいです。
+o 私は、とてもうれしいです。
+I'm very happy.
+
+x その花は、よくきれいです.
+o その花は、とてもきれいです。
+That flower is very beautiful.

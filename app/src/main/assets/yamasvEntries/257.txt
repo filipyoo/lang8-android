@@ -1,0 +1,42 @@
+
+The Usage of "Verbs + あげる" and "Verbs + もらう"
+
+"Verbs + あげる" is used when someone gives help to other people. It is used to describe from the point of view of the person who gives help.
+
+弟の宿題を手伝ってあげた - I helped my brother with his homework.
+母が私の先生に料理を作ってあげた - My mother cooked for my teacher.
+
+
+You can't use あげる when you receive the help or when the person who receives help is closer than the person who gives it.
+
+o 私は、息子にその漢字を教えてあげた - I taught my son that kanji.
+x 息子は、私にその漢字を教えてあげた - My son taught me that kanji.
+You should say ”息子は、私にその漢字を教えてくれた."
+
+o 息子は、私の友達にその漢字を教えてあげた - My son taught a friend of mine that kanji.
+x 私の友達は、息子にその漢字を教えてあげた - A friend of mine taught my son that kanji.
+You should say ”友達は、息子にその漢字を教えてくれた."
+
+
+やる has the same meaning as あげる, but やる is a rude expression, therefore you should avoid using やる if you don't know the nuance of it. 
+"母が私の先生に料理を作ってやった" is technically correct, but sounds very rude. It sounds as if your mother did it reluctantly.
+
+
+Be careful. When you offer something to do for someone, "〜てあげましょうか？" sometimes sounds pushy. You should say "〜ましょうか？"
+(It's okay to say "〜してあげようか？" to your family or friends.)
+
+x 手伝ってあげましょうか? (Sounds pushy.)
+o 手伝いましょうか? - May I help you?
+
+x 説明してあげましょうか? (Sounds pushy.)
+o 説明しましょうか? - Do you want me to explain it? / Can I explain it to you?
+
+
+
+By contrast, "Verbs + もらう" is used when someone receives help from other people. It is used to describe from the point of view of the person who receives help.
+
+弟の宿題を手伝ってあげた = 弟は私に宿題を手伝ってもらった。
+
+母が私の先生に料理を作ってあげた = 先生は母に料理を作ってもらった。
+
+Unlike くれる and あげる, you don't have to be aware of the relation between you and them who give and receive the help when you use もらう. 

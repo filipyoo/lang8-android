@@ -1,0 +1,24 @@
+
+The Difference Between 〜にくい/づらい and むずかしい
+
+にくい/づらい is used when there is a problem with the object. On the other hand, むずかしい is used when it's not easy due to the speaker's problem.
+
+彼の説明はわかりづらい sounds as if the speaker is saying that his explanation isn't good. If the speaker thinks that they don't have enough knowledge to understand his explanation, they would say 彼の説明を理解するのはむずかしい.
+
+この車はハンドルが小さすぎて運転しにくい。
+- It's not easy to drive this car because the steering wheel is too small.
+
+普通の人にはF1カーを運転するのはむずかしい。
+- It's not easy for ordinary people to drive F1 car.
+
+o 忙しいので毎日日本語を勉強するのはむずかしい。
+x 忙しいので毎日日本語を勉強しにくい。
+- It's not easy to study Japanese every day because I'm busy.
+
+このページはフォントが小さすぎて読みにくい。
+- It's not easy to read this web page because the font is too small.
+
+漢字をあまり知らないので、このページを読むのはむずかしい。
+- It's not easy for me to read this web page because I don't know enough kannji.
+
+

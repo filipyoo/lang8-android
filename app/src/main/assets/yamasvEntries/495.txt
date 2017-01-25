@@ -1,0 +1,41 @@
+
+The Difference Between "if 〜" and "when 〜" in Japanese
+
+You can use たら with both cases you say "if 〜" and "when 〜."
+
+明日雨が降ったら、君の家には行かない。
+If it rains tomorrow, I won't go to your house.
+
+家についたら、電話して。
+Please call me when you arrive your home, 
+
+You can also use 時 in both Japanese sentences above. However, you should say "時は" when you are not sure if the event will happen. On the other hand, you should say "時に" when you are sure the event will happen.
+
+明日雨が降った時は、君の家には行かない。
+家についた時に、電話して。
+
+If you say "家についた時は、電話して," it implies that you are not sure whether the listener will arrive their home or not.
+
+
+
+日本に行った時は、着物をおみやげに買ってきて。
+If you go to Japan, please bring back a kimono for me.
+
+日本に行った時に、着物をおみやげに買ってきて。
+When you go to Japan, please bring back a kimono for me.
+
+The former Japanese sentence implies that the speaker doesn't know whether the listener will go to Japan or not. The latter implies that the speaker knows the listener will go there.
+
+
+宝くじに当たった時に、車を買ってあげる。
+This sentence sounds a little unnatural. It sounds as if you know that you will win the lottery. You should say "宝くじに当たった時は、車を買ってあげる."
+
+
+You can't use 時 when the hypothesis has nothing to do with the time.
+
+x 私が金持ちだった時は、ダイヤの指輪を買ってあげるのに。
+o 私が金持ちだったら、ダイヤの指輪を買ってあげるのに。
+If I were a rich, I would buy you a diamond ring.
+
+
+

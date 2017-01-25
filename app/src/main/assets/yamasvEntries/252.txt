@@ -1,0 +1,48 @@
+
+Negation of te-form of verbs
+
+窓を開けて車を運転した- I drove with the windows down.
+
+When you negate te-form of verbs, you can use 〜ないで, 〜ずに and 〜なくて. You have to conjugate the verb into a-form. 〜ずに is mainly used in written Japanese.
+
+However, you can't use some of them in some cases.
+
+You can't use なくて to describe the situation.
+
+o 窓を開け ないで、車を運転した。
+o 窓を開け ずに、車を運転した。
+x 窓を開け なくて、車を運転した。
+
+o 学校に行か ないで、自分で勉強している。 - I'm studying without going school.
+o 学校に行か ずに、自分で勉強している。
+x 学校に行か なくて、自分で勉強している。
+
+
+You can't use なくて to describe the instrument.
+
+o はさみを使わ ないで、封筒を開けた - I opened the envelope without using scissors. 
+o はさみを使わ ずに、封筒を開けた。
+x はさみを使わ なくて、封筒を開けた。
+
+o 辞書を見 ないで、日本語が読めます - I can read Japanese without a dictionary. 
+o 辞書を見 ずに、日本語が読めます。
+x 辞書を見 なくて、日本語が読めます。
+
+
+You can't use ないで to describe the reasons. Using ずに sounds a little unnatural in this case.
+
+x 彼が来ないで、心配した 。
+? 彼が来 ずに、心配した。
+o 彼が来 なくて、心配した。- I was worried because he didn't come.
+
+x 鍵が見つから ないで、家に入れない。
+? 鍵が見つから ずに、家に入れない。 
+o 鍵が見つから なくて、家に入れない。- I can't enter my house because I lost the key.
+
+
+
+You can also use ず instead of ずに. It sounds very formal.
+o 窓を開け ず、車を運転した。
+o 学校に行か ず、自分で勉強している。
+o はさみを使わ ず、封筒を開けた。
+o 辞書を見 ず、日本語が読めます。

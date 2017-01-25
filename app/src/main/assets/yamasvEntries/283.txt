@@ -1,0 +1,28 @@
+
+The Difference Between 知る and 知っている
+
+知る doesn't mean "know" but "get new information." Therefore, "彼女の名前を知る" doesn't mean "I know her name." Rather, it means that you don't know her name and you'll learn her name now."
+
+知る isn't an active verb but a stative verb. When ている comes after a stative verb, it doesn't represent actions but statuses. Therefore, 知っている means "know."
+If you want to say "Do you know her name?", you shouldn't say "彼女の名前を知りますか?" but rather "彼女の名前を知ってますか?" 
+
+Do you know where the bank is?
+x 銀行はどこか知りますか?
+o 銀行はどこか知ってますか?
+
+Do you know who he is?
+x 彼は誰か知りますか?
+o 彼は誰か知ってますか?
+
+
+You can say 知らない or 知りません to mean "I don't know."
+
+
+When ている comes after action verbs, it means you are in the middle of doing something.
+
+彼は走っている。
+He's running.
+
+彼は映画を観ています。
+He's watching a movie.
+

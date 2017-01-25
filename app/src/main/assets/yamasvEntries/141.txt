@@ -1,0 +1,49 @@
+
+The difference between で and に when they follow places.
+
+You can use で to describe places where you do some actions.
+
+日本で富士山に登った。
+I climbed Mt. Fuji in Japan.
+
+日本で忍者を見た。
+I saw ninjas in Japan.
+
+
+You can use に to describe places with verbs which describe existence.
+
+日本に富士山がある。
+There is Mt. Fuji in Japan.
+
+日本に忍者がいる。
+There are ninjas in Japan.
+
+
+You cannot use で to specify places with verbs which describe existence.
+x 日本で富士山がある。
+x 日本で忍者がいる。
+
+You cannot use に to specify places with verbs which describe actions.
+x 日本に富士山に登った。
+x 日本に忍者を見た。
+
+o 日本に忍者を見に行った。
+In this sentence, に doesn't specify the place where the action (行く) was done, it specifies the objective place of the action.
+
+
+で also has the ability to limit e places:
+私はあのレストランで昼食を食べた。- I ate lunch at that restaurant.
+This Japanese sentence implies that I ate lunch not at other places but at that restaurant.
+
+
+サメが海 で 泳いでいる。- A shark is swimming in the sea.
+This Japanese sentence sounds a little bit strange for some Japanese people, because Sharks is not usually swimming in other place except the sea.
+
+サメが水槽 で 泳いでいる。- A shark is swimming in an aquarium.
+This Japanese sentence sounds very natural for me, because it sounds like "A shark is swimming not in a sea but in an aquarium."
+
+
+You can use で and に to specify time. 
+昼食の後に、彼に電話した。- I called him after lunch.
+昼食の後で、彼に電話した。
+で has the ability to limit the time span as in the case with when it is used to specify places. Therefore, although you cannot know when the speaker had decided to call from the former sentence, the latter sounds as if the speaker had a plan since before lunch to call him after lunch.

@@ -1,0 +1,20 @@
+
+Common Mistakes about 〜やすい and 〜にくい
+
+When you use 〜やすい and 〜にくい, you can't use a person as the subject.
+
+x 私は、この車を運転しにくい。
+o この車は、私には運転しにくい。
+This car is hard to drive for me.
+
+x  私は、この漢字を覚えにくい。
+o この漢字は、私には覚えにくい。
+It's not easy for me to memorize this kanji.
+
+x 日本人は、英語を発音しにくい。
+o 英語は、日本人には発音しにくい。
+It's hard for Japanese people to pronounce English.
+
+x 小さい子は、あなたの教え方をわかりやすい。
+o あなたの教え方は、小さい子には分かりやすい。
+Your way to teach is easy to understand for little children.

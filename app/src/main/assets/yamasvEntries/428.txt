@@ -1,0 +1,45 @@
+
+How to list Two Reasons in One Sentence in Japanese
+
+You can use て、ために、ので and から to describe a reason.
+
+道が混んでたために、遅れました。
+I was late because of the heavy traffic.
+
+忙しいので、パーティには行きません。
+I won't go to the party because I'm busy.
+
+
+You can't use the same conjugations in one sentence which includes two related reasons.
+
+I won't go to the party because I have an exam and I have to study.
+x テストがあるから、勉強しないといけないから、パーティには行きません。
+x テストがあるので、勉強しないといけないので、パーティには行きません。
+o テストがあるので、勉強しないといけないから、パーティには行きません。
+
+There is one more rule.
+て - ために - ので - から
+This order has a meaning. You can pick up any two of these conjugations, but you can't list them by different order. This isn't a strict rule, but listing them by different order makes your sentence unnatural.
+
+o テストがあるので、勉強しないといけないから、パーティには行きません。
+x テストがあるから、勉強しないといけないので、パーティには行きません。
+
+o テストがあるために、勉強しないといけないので、パーティには行きません。
+x テストがあるので、勉強しないといけないために、パーティには行きません。
+
+
+When the two reasons aren't related to each other, you can say "〜し、〜から/ので."
+
+I won't go to the party because I have an exam and my mother is sick.
+テストもあるし、母も病気なので、パーティには行きません。
+
+I can't go to Japan because I don't have enough money and I can't take a long vacation.
+お金もないし、長い休みもとれないから、日本には行けない。
+
+I'm going to leave this company because I don't like this job and I'm not satisfied with my salary.  
+この仕事も好きじゃないし、給料も不満だから、会社を辞める。
+
+You can use が instead of も in all sentences above, but using も can stress the reason.
+テストがあるし、母が病気なので、パーティには行きません。
+お金がないし、長い休みがとれないから、日本には行けない。
+この仕事が好きじゃないし、給料が不満だから、会社を辞める。

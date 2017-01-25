@@ -1,0 +1,32 @@
+
+The Usage of と, に, や and とか
+
+と and に can be used to list nouns. や and とか can be used to list examples. 
+
+1. と
+あの動物園には、猿と象とライオンがいます.
+- There are monkeys, elephants and lions in that zoo.
+This sentence implies there is no other animals. You can't use と after the last noun.
+x  あの動物園には、猿 と 象 と ライオン と がいます.
+
+2. に
+The Usage of に is the same as と.
+あの動物園には、猿 に 象 に ライオンがいます.
+
+You can't use と and に at the same time.
+x あの動物園には、猿 に 象 と ライオンがいます.
+
+3. や
+あの動物園には、猿 や 象 や ライオンがいます.
+This sentence implies there are other animals. You can't use や after the last noun.
+x  あの動物園には、猿 や 象 や ライオン や がいます.
+
+4. とか
+あの動物園には、猿 とか 象 とか ライオンがいます.
+This sentence implies there are other animals. Unlike other particles, you can use とか after the last noun.
+o  あの動物園には、猿 とか 象 とか ライオン とか がいます.
+
+By adding とか after a last noun, you can give the impression that there are a lot of other animals.
+
+If you say "コーヒーとか紅茶とかが飲みたい," it doesn't mean "I'd like to drink a cup of coffee or tea." It means "I'd like to drink a cup of coffee, tea, or something like this." A waiter might bring a cup of green tea for you.
+

@@ -1,0 +1,43 @@
+
+Transitive and Intransitive Verbs in Japanese
+
+
+(I'm very sorry, I posted this article before, but I made mistakes about transitive and intransitive verbs. I reveiwed it and post again.)
+
+
+There are a lot of pairs of transitive and intransitive verbs in Japanese:
+
+閉める and 閉まる
+開ける and 開く
+落とす and 落ちる
+切る and 切れる
+倒す and 倒れる
+消す and 消える
+etc.
+(The former in each pair is the transitive verb and the latter is the intransitive verb.)
+
+The intransitive verbs + ている is used to describe a state. On the other hand, when てある follows transitive verbs, it's also used to describe a state.
+
+窓が開いている。
+窓が開けてある。
+Both sentences above mean "the window is open," but the both sentences have different nuances. The second one, the transitive verbs + てある, implies that someone did it intentionally.
+
+窓が開けてある。（暑いから誰かが開けたんだろう。）
+- The window is open. (Someone must have opened it because it was hot.)
+窓が開いている doesn't imply someone's intention. 
+
+Similarly:
+電気が消えている。(電池が切れているのかも。)
+電気が消してある。(彼が電気を消して、家に帰ったのだろう。）
+- The light is off. (The battery might have gone.)
+- The light is off. (He must have turned it off and gone home.)
+(You can't say 電気が消してある if you think that the battery has gone. On the other hand, you can say 電気が消えている even if you think that someone has turned it off intentionally.)
+
+
+When ている follows the transitive verbs, it means you are doing the action now.
+彼が窓を開けている。- He is opening the window (now).
+彼が電気を消している。 - He is turning the light off (now).
+
+
+てある can't follow the this type of intransitive verbs. (You can't say 開いてある or 消えてある.)
+

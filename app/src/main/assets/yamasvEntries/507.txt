@@ -1,0 +1,50 @@
+
+The Usage of "〜には"
+
+"〜には" is used with いる and ある. It can follow a place, an organization or a person.
+
+日本には、コンビニがたくさんあります。
+There are a lot of convenience stores in Japan.
+
+私の学校には、大きなプールがあります。
+- We have a big pool in our school.
+
+私には、ふたり妹がいます。
+- I have two sisters.
+
+その会社には、たくさんの従業員がいます。
+- The company has a lot of employees.
+
+
+"〜には" is also used to mean "to 〜." It follows the dictionary form of verbs or a noun which describes an action in this case.
+
+そのホテルに行くには、タクシーを使った方がいい。
+- You should take a taxi to go to the hotel.
+
+漢字を勉強するには、このアプリが便利だ。
+漢字の勉強には、このアプリが便利だ。
+- This app is very useful to learn kanji.
+
+新しいiPhoneを手に入れるには、行列に長い間並ばないといけない。
+- You have to wait in line for hours to get a new iPhone.
+
+この役者は、高校生を演じるには年を取り過ぎている。
+- This actor is too old to play the role of a high school boy.
+
+日本に行くには、お金がたくさん必要です。
+日本旅行には、お金がたくさん必要です。
+- You need a lot of money to visit Japan.
+
+You can use のに instead of には when the のに follows a verb and is used to mean "in order to."
+そのホテルに行くのに、タクシーを使った方がいい。
+漢字を勉強するのに、このアプリが便利だ。
+新しいiPhoneを手に入れるのに、行列に長い間並ばないといけない。
+日本に行くのに、お金がたくさん必要です。
+
+"この役者は、高校生を演じるのに年を取り過ぎている" sounds a little unnatural. I think it's because this のに doesn't mean "in order to."
+
+のに can't follow a noun.
+x 漢字の勉強のに、このアプリが便利だ。
+x 日本旅行のに、お金がたくさん必要です。
+
+

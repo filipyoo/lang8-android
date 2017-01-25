@@ -1,0 +1,32 @@
+
+Verbs + の
+
+You can convert a verb into a noun by adding の or こと.
+
+私は泳ぐのが好きです。
+私は泳ぐことが好きです。
+I like swimming.
+
+However, you can't use こと with 見る or 聞く. You need to use the present tense for the verb before の even though you are talking about a past event.
+
+o 彼が公園を走っているのを見た。
+x 彼が公園を走っていることを見た。
+I saw him running in the park.
+
+o 誰かがその車の窓を壊すのを見た。
+x 誰かがその車の窓を壊すことを見た。
+I saw someone break the window of the car.
+
+o 日本人の選手がヤンキースでプレーするのを見たい。
+x 日本人の選手がヤンキースでプレーすることを見たい。
+I'd like to see Japanese players playing for the Yankees.
+
+o 彼がピアノを弾いているのを聞いた。
+x 彼がピアノを弾いていることを聞いた。
+I heard him playing the piano.
+
+o 誰かが叫んでいるのを聞いた。
+x 誰かが叫んでいることを聞いた。
+I heard someone screaming.
+
+

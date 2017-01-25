@@ -1,0 +1,35 @@
+
+つもり / はず.
+
+つもり is used to describe someone's plans or intentions.
+
+来月、日本に行くつもりです。
+I'm going to go to Japan next month.
+
+明日は、早く起きるつもりです。
+I'm going to get up early tomorrow.
+
+彼は、その会議を正午に始めるつもりです。
+He is going to start that conference at noon.
+
+You cannot use it for things which cannot make decisions by itself.
+
+x その会議は、正午に始まるつもりです。
+That conference is supposed to start at noon.
+
+
+On the other hand, はず is used when you have confidence. 
+
+彼はその問題が解けるはずだ。
+You must be able to solve the problem.
+
+彼は２時間前に出たから、もう着いているはずです。
+He must have arrived there, because he left two hours ago.
+
+その会議は正午に始まるはずです。
+That conference is supposed to start at noon.
+
+You can use はず for yourself.
+
+私にはできるはず。
+I believe I can do it.

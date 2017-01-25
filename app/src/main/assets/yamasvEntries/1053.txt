@@ -1,0 +1,38 @@
+
+Using だけ and しか〜ない
+
+"All he wants is money."
+Google translator may translate this sentence into "彼が欲しい全てはお金だ," but it sounds strange. "彼が欲しいのはお金だけ" sounds natural. You should use だけ to translate  "All S + V is O" into Japanese in many cases.
+
+この部屋から見えるのは砂漠だけだ。
+- All I can see is desert from this room.
+
+この一ヶ月で読んだのはマンガだけだ。
+- All I've read in the past one month is manga.
+
+両親に会ってくれるだけでいい。
+- All you have to do is meet my parents.
+
+私の話を聞いて欲しいだけ。
+- All I want you to do is listen to me.
+
+
+
+
+Conversely, "しか〜ない" sounds natural to translate "only" when the predicate is a verb, while the dictionary says that "'only' means だけ."
+
+私の部屋にはベッドしかない。
+- There is only bed in my room.
+
+1000円しか持ってない。
+- I have only 1,000 yen.
+
+私は英語しか話せない。
+- I speak only English.
+("私は英語しか話さない" sounds like "Although I can speak other languages, I don't want to speak any language but English.")  
+
+You should use だけ when the predicate is a noun. In this case, it sounds as if you want to focus the noun as a topic.
+私の部屋にあるのはベッドだけだ。
+私が持っているのは1000円だけだ。
+私が話せるのは英語だけだ。
+

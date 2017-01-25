@@ -1,0 +1,22 @@
+
+Using する to Tell Prices
+
+する can be used to tell prices.
+
+このドレスはいくらしますか？
+- How much is this dress?
+
+彼は1万ドルするスーツを着てるのに、かっこ良く見えない。
+- He wears 10,000 dollar suit, but doesn't look cool.
+
+この小さなアパートの家賃が月20万するなんて信じられない。
+- I can't believe that the rent of this small flat is 200,000 yen a month.
+
+
+The subject of this is always a noun. Therefore, you can say 
+東京へのチケット代は10万円する (The price of the plane ticket to Tokyo is 100,000 yen)
+,but you can't say
+東京へ行くのに10万円する.
+You need to use かかる when the subject is a verb:
+東京へ行くのに10万円かかる. (It costs me 100,000 yen to fly to Tokyo.)
+

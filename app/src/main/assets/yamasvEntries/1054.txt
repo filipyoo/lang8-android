@@ -1,0 +1,49 @@
+
+Using 以下, 以上, 以内 and 以外
+
+
+以下 means "not more than." It includes the number itself before it.
+
+５以下の正の自然数は1,2,3,4,5です。
+- The positive natural numbers not more than 5 are 1, 2, 3, 4 and 5.
+
+未満 means "less than." It doesn't include the number before it.
+
+５未満の正の自然数は1,2,3,4です。
+- The positive natural numbers less than 5 are 1, 2, 3, and 4.
+
+
+以上 means "not less than." It includes the number itself before it.
+
+３以上５以下の正の自然数は3,4,5です。
+- The positive natural numbers not less than 3 and not more than 5 are 3, 4 and 5.
+
+
+以内 means "within." It follows a period of time or a distance.
+
+それは５日以内に終わる。
+- It'll finish within five days.
+
+駅から100メートル以内のところに住んでいます。
+- I live within 100 meters of the station.
+
+
+The opposite of 以内 is 以上.
+
+それは５日以上かかる。
+- It'll take at least 5 days.
+
+駅から2キロ以上のところに住んでいます。
+- I live over 2 kilometers away from the station.
+
+
+以外 means "except." Unlike the rest words, it can follow a noun.
+
+私以外のメンバーは日本語が話せる。
+- All members except me speak Japanese.
+
+彼以外は誰もそれを知らない。
+- Nobody but him knows it.
+
+私の部屋にはベッド以外は何もない。
+- There is nothing but a bed in my room.
