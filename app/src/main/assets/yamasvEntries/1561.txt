@@ -1,0 +1,24 @@
+
+Using 近く
+
+近く can follow a number to mean "almost." It implies that the exact number isn't over the number before it.
+
+日本へのチケットは2000ドル近くする。
+- The ticket to Japan costs almost 2,000 dollars.
+(It implies that the price is under 2,000 dollars.)
+
+バスで行くとタクシーで行くより3倍近く時間がかかる。
+- Going there by bus would take almost three times as long as by taxi.
+
+日本旅行で3000ドル近く使った。
+- I spend almost 3,000 dollars during the trip in Japan.
+
+彼は一日に100本近くタバコを吸う。
+- He smokes almost 100 cigarettes a day.
+
+Each of the 近く in the each sentence above modifies a verb: する, かかる, 使った and 吸う. When it modifies a noun that follows it, you need use 近い instead.
+
+日本へのチケットは 2000ドル近い値段 がする。
+バスで行くとタクシーで行くより 3倍近い時間 がかかる。
+日本旅行で 3000ドル近いお金 を使った。
+彼は一日に 100本近いタバコ を吸う。
